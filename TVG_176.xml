@@ -40,7 +40,7 @@
                      <support>
                            
                         </support><extent>
-                           <measure unit="page" quantity="100"/>
+                           <measure unit="page" quantity="744"/>
                            <dimensions type="object" unit="mm">
                               
                               
@@ -98,27 +98,27 @@
           <lg>
           <l n="1"><lb/>tiṅkaḷaip pōṟṟutun tiṅkaḷaip pōṟṟutum</l>
             <l n="2"><lb/><note place="foot" type="variant"><c type="anchor">‡</c> <q>koṅkalarārc</q></note>koṅkalartārc ceṉṉi kuḷirveṇ kuṭaipōṉṟiv</l>
-          <l n="3"><lb/>vaṅka ṇulakaḷitta lāṉ<note place="foot" type="citation" ref="ati, 1:1-3">aṭi, 1-3: <hi rend="bold">puṟanā.</hi> 60. (mēṟ.) itu kuṭaimaṅkalam (tol. <lb/>puṟat. 30, iḷam.; 36, na.)</note></l>
+          <l n="3"><lb/>vaṅka ṇulakaḷitta lāṉ<note place="foot" type="citation">aṭi, <num xml:lang="en">1-3</num>: <hi rend="bold">puṟanā.</hi> 60. (mēṟ.) itu kuṭaimaṅkalam (tol. <lb/>puṟat. 30, iḷam.; 36, na.)</note></l>
           <l n="4"><lb/>ñāyiṟu pōṟṟutu ñāyiṟu pōṟṟutuṅ</l>
           <l n="5"><lb/>kāviri nāṭaṉ ṟikiripōṟ poṟkōṭṭu</l>
-          <l n="6"><lb/>mēru valantirita lāṉ<note place="foot" type="citation" ref="ati, 1:4-6">aṭi, 4-6: itu tikiriyaippuṉainturaittatu <lb/>(tol. puṟat. 36, na.)</note></l>
+          <l n="6"><lb/>mēru valantirita lāṉ<note place="foot" type="citation">aṭi, <num xml:lang="en">4-6</num>: itu tikiriyaippuṉainturaittatu <lb/>(tol. puṟat. <num xml:lang="en">36</num>, na.)</note></l>
          <l n="7"><lb/>māmaḻai pōṟṟutu māmaḻai pōṟṟutum</l>
          <l n="8"><lb/>nāmanīr vēli yulakiṟ kavaṉaḷipōl</l>
-         <l n="9"><lb/>mēṉiṉṟu tāṉcuratta lāṉ<note place="foot" type="citation" ref="ati, 1:7-9"> <q>mativāḻi ravivāḻi maḻaivāḻiyē</q> <lb/>(takka. 9, urai); ittoṭar, <q>tiṅkaḷaip pōṟṟutum</q> eṉpatu <lb/>mutaliya mūṉṟaiyum piṉpaṟṟiniṟkum muṟai iṅkē aṟitaṟpālatu.</note></l>
+         <l n="9"><lb/>mēṉiṉṟu tāṉcuratta lāṉ<note place="foot" type="citation">ati, <num xml:lang="en">7-9</num>: <q>mativāḻi ravivāḻi maḻaivāḻiyē</q> <lb/>(takka. <num xml:lang="en">9</num>, urai); ittoṭar, <q>tiṅkaḷaip pōṟṟutum</q> eṉpatu <lb/>mutaliya mūṉṟaiyum piṉpaṟṟiniṟkum muṟai iṅkē aṟitaṟpālatu.</note></l>
          <l n="10"><lb/>pūmpukār pōṟṟutum pūmpukār pōṟṟutum</l>
          <l n="11"><lb/>vīṅkunīr vēli yulakiṟ kavaṉkulattō</l>
          <l n="12"><lb/>ṭōṅkip parantoḻuka lāṉ</l>
          <l n="13"><lb/>āṅku,</l>
          <l n="14"><lb/>potiyi lāyiṉu mimaya māyiṉum</l>
           </lg>
-         <p type="commentary uvs" ref="1"><lb/>1. tiṅkaḷaippōṟṟutum tiṅkaḷaippōṟṟutumeṉṉum aṭukku
+         <p type="commentary uvs" corresp="1"><lb/><num xml:lang="en">1.</num> tiṅkaḷaippōṟṟutum tiṅkaḷaippōṟṟutumeṉṉum aṭukku
 <lb/>ciṟappiṉkaṇ vantatu.</p>
-         <p type="commentary uvs" ref="3"><lb/>3. aṅkaṇulaku – aḻakiya ulakiṭam.</p>
-         <p type="commentary uvs" ref="8"><lb/>8. nāmanīr – accattait tarukiṉṟa kaṭal. 9. mēṉiṉṟu – ellāp
+         <p type="commentary uvs" corresp="3"><lb/><num xml:lang="en">3.</num> aṅkaṇulaku – aḻakiya ulakiṭam.</p>
+         <p type="commentary uvs" corresp="8-9"><lb/><num xml:lang="en">8.</num> nāmanīr – accattait tarukiṉṟa kaṭal. <num xml:lang="en">9.</num> mēṉiṉṟu – ellāp
 <lb/>poruḷukkum mēlākaniṉṟu.</p>
-         <p type="commentary uvs" ref="11"><lb/>11. vīṅkunīr – niṟainta nīr.</p>
-         <p type="commentary uvs" ref="1-13"><lb/>1 – 12. ivai nāṉku cintiyal veṇpāvum cempiyaṉaiyum pukā
-<lb/>riṉaiyum ciṟappittaṉa. 13. āṅku – ātalāl.</p>
+         <p type="commentary uvs" corresp="11"><lb/><num xml:lang="en">11.</num> vīṅkunīr – niṟainta nīr.</p>
+         <p type="commentary uvs" corresp="1-13"><lb/><num xml:lang="en">1 – 12.</num> ivai nāṉku cintiyal veṇpāvum cempiyaṉaiyum pukā
+<lb/>riṉaiyum ciṟappittaṉa. <num xml:lang="en">13.</num> āṅku – ātalāl.</p>
       </div>
     </div>
   </div>
