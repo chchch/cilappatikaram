@@ -1,0 +1,63 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation//context.json"
+    ],
+    "@id": "https://chchch.github.io/cilappatikaram/manifest.json",
+    "type": "Manifest",
+    "label": "École française de l'Extrême-Orient",
+    "attribution": "École française de l'Extrême-Orient",
+    "description": "",
+    "metadata": [
+        {
+            "label": "Shelfmark",
+            "value": "TVG 176"
+        },
+        {
+            "label": "Title",
+            "value": "Cilappatikāram, 6th edition, 1955"
+        },
+        {
+            "label": "Date",
+            "value": "1955"
+        },
+        {
+            "label": "Language",
+            "value": "Tamil"
+        }
+    ],
+    "sequences": [
+        {
+            "canvases": [
+                {
+                    "@id": "https://chchch.github.io/cilappatikaram/manifest.json/canvas/1",
+                    "type": "Canvas",
+                    "height": 2012,
+                    "width": 1344,
+                    "label": "p. 33",
+                    "items": [
+                        {
+                            "@id": "https://chchch.github.io/cilappatikaram/manifest.json/canvas/1/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://chchch.github.io/cilappatikaram/manifest.json/canvas/1/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://chchch.github.io/cilappatikaram/033.jpg",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 2012,
+                                        "width": 1344
+                                    },
+                                    "target": "https://chchch.github.io/cilappatikaram/manifest.json/canvas/1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
