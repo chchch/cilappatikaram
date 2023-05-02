@@ -1,0 +1,15 @@
+{
+  "name": "tst-src",
+  "version": "0.1",
+  "description": "NPM files to be converted to ES6 modules",
+  "main": "index.js",
+  "repository": "https://github.com/TST-Project",
+  "author": "Charles Li",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "hypher": "^0.2.5"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}

@@ -1,0 +1,7 @@
+\selectlanguage *{english}
+\contentsline {part}{\numberline {I}Introduction}{7}{part.1}%
+\contentsline {part}{\numberline {II}The manuscript}{9}{part.2}%
+\contentsline {part}{\numberline {III}Diplomatic edition}{13}{part.3}%
+\contentsline {chapter}{1° Declinacaõ}{15}{chapter*.2}%
+\contentsline {chapter}{2° Declinacaõ}{17}{chapter*.3}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

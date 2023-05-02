@@ -2,7 +2,7 @@
                 xmlns:x="http://www.tei-c.org/ns/1.0"
                 xmlns:tst="https://github.com/tst-project"
                 exclude-result-prefixes="x tst">
-<xsl:import href="https://tst-project.github.io/lib/xslt/tei-to-html.xsl"/>
+<xsl:import href="lib/xslt/tei-to-html.xsl"/>
 
 <xsl:output method="html" encoding="UTF-8" omit-xml-declaration="yes"/>
 

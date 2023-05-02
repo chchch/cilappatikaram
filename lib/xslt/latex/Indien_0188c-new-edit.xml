@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tamil grammar in Portugese</title>
+        <editor>
+          <persName>Cristina MURU</persName>
+          <orgName>University of Tuscia</orgName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>TST Project</publisher>
+        <date>2021</date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>
+              <orgName>Bibliothèque nationale de France. Département des Manuscrits.</orgName>
+            </repository>
+            <idno type="URI">https://archivesetmanuscrits.bnf.fr/ark:/12148/cc1037074</idno>
+            <idno type="shelfmark">Indien 188c</idno>
+            <idno type="alternate">
+              <idno>Tamoul 188</idno>
+            </idno>
+          </msIdentifier>
+          <msContents class="#STM">
+            <summary>
+              <p>A grammar of Tamil language in Portuguese, containing descriptions and explanations about declensions, conjugation and syntax.
+                     <list><item>First come the declensions (<locus facs="25">f8r</locus>‒<locus facs="35">f13r</locus>). The nouns chosen for illustrating the declensions are the same as those found in <title xml:lang="pt">Arte da lingua Malabar</title> composed around 1549 by the Jesuit <persName>Henrique Henriques</persName> (1520‒1600). For instance, the first declension of Henriques corresponds to the sixth declension here; the third to the fourth; the fourth to the first; and the fifth to the third. The second declension is the same in both.</item><item>We find afterwards explanations about nouns and adjectives, e.g.: <quote xml:lang="pt">os nomes acabados em <term xml:lang="ta-Taml">ஆ</term> â (…)</quote> (<locus facs="37">f14r</locus>); <quote xml:lang="pt">dos Nomes adiectiuos</quote> (<locus facs="39">f15r</locus>); <quote xml:lang="pt">dos Comparatiuos</quote> (<locus facs="41">f16v</locus>); “dos Superlatiuos” (<locus facs="43">f17r</locus>); <quote xml:lang="pt">dos nomens de qualidade et gantidade</quote> (<locus facs="44">f17v</locus>); <quote xml:lang="pt">pera os nomens de quantidade</quote> (<locus facs="45">f18r</locus><locus facs="46">v</locus>) ; <quote xml:lang="pt">dos nomens Numerais</quote> (<locus facs="47">f19r</locus>‒<locus facs="51">21r</locus>) ; <quote xml:lang="pt">dos pronomens</quote> (<locus facs="51">f21r</locus>).</item><item>Then comes the book II on verbs (<quote xml:lang="pt">Livro 2° dos verbos,</quote> (<locus facs="57">f24r</locus>). The following headears are found in this portion of the text: <quote xml:lang="pt">primeira Conjugacaõ</quote> (<locus facs="57">f24r</locus>); <quote xml:lang="pt">2a Conjugacaõ</quote> (<locus facs="69">f30r</locus>); <quote xml:lang="pt">3a Conjugacaõ</quote> (<locus facs="79">f35r</locus>); <quote xml:lang="pt">4a Conjugacaõ</quote> (<locus facs="83">f37r</locus>); <quote xml:lang="pt">5a Conjugacaõ</quote> (<locus facs="87">f39r</locus>); <quote xml:lang="pt">dos uerbos Compositos</quote> (<locus facs="91">f41r</locus>); <quote xml:lang="pt">dos uerbos passiuos</quote> (<locus facs="91">f41v</locus>); <quote xml:lang="pt">Dos uerbos Impersoaes</quote> (<locus facs="93">f42r</locus>); <quote xml:lang="pt">dos uerbos defeitivos</quote>” (<locus facs="96">f43v</locus>).</item><item>Finally from <locus facs="100">f45v</locus>, various topics are discussed, e.g.: <quote xml:lang="pt">dos partecipios</quote> (<locus facs="100">f45v</locus>); <quote xml:lang="pt">do casu</quote> (<locus facs="100">f45v</locus>); <quote xml:lang="pt">do Dativo</quote> (<locus facs="102">f46v</locus>); <quote xml:lang="pt">por Accusativo</quote> (<locus facs="103">f47r</locus>); <quote xml:lang="pt">por ablatiuo</quote> (<locus facs="104">f47v</locus>); <quote xml:lang="pt">dos partecipios adiectiuos</quote> (<locus facs="108">f49v</locus>); <quote xml:lang="pt">dos partecipios do Infinito</quote> (<locus facs="108">f49v</locus>); <quote xml:lang="pt">dos tempos menos principaes</quote> (<locus facs="109">f50r</locus>); <quote xml:lang="pt">da particula, Am</quote> (<locus facs="114">f52v</locus>); <quote xml:lang="pt">das proposicoens</quote> (<locus facs="116">f53v</locus>); <quote xml:lang="pt">aduerbios de tempo</quote> (<locus facs="118">f54v</locus>); <quote xml:lang="pt">de responder</quote> (<locus facs="119">f55r</locus>); <quote xml:lang="pt">de afirmar</quote> (<locus facs="119">f55r</locus>); <quote xml:lang="pt">de negar</quote> (<locus facs="119">f55r</locus>); <quote xml:lang="pt">de quandidade</quote> (<locus facs="121">f56r</locus>); <quote xml:lang="pt">modo de formar os uerbos</quote> (<locus facs="122">f56v</locus>).</item><item>The last folio is about <quote xml:lang="pt">de quantitade</quote> (<locus facs="121">f56r</locus>). The <locus facs="123">f57v</locus> bears a crossed-out word.</item></list>
+                    </p>
+            </summary>
+            <msItem xml:id="T1" defective="false">
+              <title xml:lang="pt">Tamil grammar in Portugese</title>
+              <textLang mainLang="por" otherLangs="tam"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc material="paper">
+                <support>
+                            
+                        </support>
+                <extent>
+                  <measure unit="folio" quantity="52"/>
+                  <dimensions type="leaf" unit="mm">
+                    <width quantity="285"/>
+                    <height quantity="195"/>
+                  </dimensions>
+                  <dimensions type="object" unit="mm"/>
+                  <dimensions type="written" unit="mm"/>
+                </extent>
+                <collation>
+                  <desc>52 folios. Arabic library foliation 8‒57 for first 50 folios; last 2 folios unfoliated.</desc>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1"/>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote scope="sole" script="roman" medium="ink black"/>
+            </handDesc>
+            <additions/>
+            <bindingDesc>
+              <binding>
+                        
+                     </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="gregorian"/>
+              <origPlace>Tamilnadu.</origPlace>
+            </origin>
+            <acquisition>
+                     
+                  </acquisition>
+          </history>
+          <additional>
+            <listBibl>
+                     
+                     
+                  </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2021-08">Added transcription of first page by Cristina MURU, encoded by Charles LI.</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52515353x/manifest.json" facs="25"/>
+  </facsimile>
+  <text corresp="#T1" xml:lang="pt">
+    <body>
+      <milestone n="8r" unit="folio" facs="25"/>
+      <head>1ª Declinacaõ</head>
+      <p><lb/>Os nomes acabados em <term xml:lang="ta-Taml">ஆ</term> â saõ da 1° declinaçaõ no <expan>g<ex>enitiv</ex>o</expan> do 
+            <lb/>singular acabaõ em <term xml:lang="ta-Taml">உடைய</term> uthaïa ou em <term xml:lang="ta-Taml">வினுடய</term>
+            <lb/>vinuthaïa no <expan>n<ex>ominativ</ex>o</expan> do plural acabaõ em <term xml:lang="ta-Taml">ககள</term>, cal . Tambem
+            <lb/>vaõ por esta declinacaõ os nomes e huã silaba acabados em <term xml:lang="ta-Taml">வ</term>
+            <lb/>vuana ut <term xml:lang="ta-Taml">பூ</term> pu.rosa. 
+        </p>
+      <table>
+        <row>
+          <cell>Sing.</cell>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">இ.ரா.சா.</cell>
+          <cell>iracha</cell>
+          <cell>Rei</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">இ.ரா.சா.வினு.டை.ய</cell>
+          <cell>irachavinouthaïa</cell>
+          <cell>do Rei</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">இ.ரா.சா.வு.ககு</cell>
+          <cell>irachavouccou</cell>
+          <cell>au, ou, pera o Rei</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ac<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">இ.ரா.சா.வை</cell>
+          <cell>irachavaï</cell>
+          <cell>o Rei, ou, ao Rei, ou, pera o Rei</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>v<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">இ.ரா.சா.வெ</cell>
+          <cell>irachavé</cell>
+          <cell>ô Rei</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">இ.ரா.சா.வில</cell>
+          <cell>irachavil </cell>
+          <cell>de Rei, do Rei, no Rei, em Rei</cell>
+        </row>
+        <row>
+          <cell>plur.</cell>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">இ.ரா.சா.ககள</cell>
+          <cell>irachaccal</cell>
+          <cell>os Reis</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">இ.ரா.சா.க்களு.டை.ய</cell>
+          <cell>irachaccaloudaïa </cell>
+          <cell>de ou dos Reis</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">இ.ரா.சா.க.க.ளு.க.கு</cell>
+          <cell>irachaccalouccou</cell>
+          <cell>aos, ou pera os Reis</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ac<hi rend="superscript">õ</hi><note place="foot">At the beginning the scribe writes iracchacaḷ, then he corrects it in -cale, and finally in -caḷai.</note></cell>
+          <cell xml:lang="ta-Taml">இ.ரா.சா.க.க.ளை</cell>
+          <cell>irachaccal</cell>
+          <cell>os, ou, aos, ou, pera os Reis</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>v<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">இ.ரா.சா.க.க.ளெ</cell>
+          <cell>irachaccalé</cell>
+          <cell>ô Reis</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">இ.ரா.சா.க.க.ளில்</cell>
+          <cell>irachaccalil </cell>
+          <cell>de, dos, em, nos, com Reis</cell>
+        </row>
+      </table>
+      <p>a esta declinacaõ se adacem alguns nomes acabados em <term xml:lang="ta-Taml">உ</term> u de doas silabas e a 1° seia breve, ut <term xml:lang="ta-Taml">அனு</term>, anu, lume dos olhos, <term xml:lang="ta-Taml">உரு</term>, urû, champana, <term xml:lang="ta-Taml">கனு</term>, canu, no de arvore. <term xml:lang="ta-Taml">குரு</term>, curû, sacerdote. <term xml:lang="ta-Taml">நடு</term>, nadû, iustica. Et outros os <expan>q<ex>uaes</ex></expan> tem antes da penultima n, ou m, vaõ pollas amba.</p>
+      <milestone n="9r" unit="folio" facs="27"/>
+      <head>2ª Declinacaõ</head>
+      <p><lb/>os nomes acabados em <term xml:lang="ta-Taml"><del>இ</del>இ</term> ina, ou <term xml:lang="ta-Taml">ஐ</term>, aïana, <term xml:lang="ta-Taml">ய</term>, ïana 
+            <lb/>vaõ polla 2° et no <expan>n<ex>ominativ</ex>o</expan> do plurar em <term xml:lang="ta-Taml">கள</term> cal, 
+            <lb/>ut <term xml:lang="ta-Taml">தொ.ப்.பி</term> thoppi.
+        </p>
+      <table>
+        <row>
+          <cell>Sing.</cell>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொ.ப.பி</cell>
+          <cell>toppi</cell>
+          <cell>o chappéo</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொ.ப.பி.யு.டை.ய</cell>
+          <cell>toppïïudaïa</cell>
+          <cell/>
+        </row>
+        <row>
+          <cell/>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொ.ப.பி.க.கு</cell>
+          <cell>toppicu</cell>
+          <cell/>
+        </row>
+        <row>
+          <cell/>
+          <cell>ac<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொ.ப.பி.யை</cell>
+          <cell>toppiaï</cell>
+          <cell/>
+        </row>
+        <row>
+          <cell/>
+          <cell>v<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொ.ப.பி.யெ</cell>
+          <cell>toppia</cell>
+          <cell/>
+        </row>
+        <row>
+          <cell/>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொ.ப.பி.யி.லெ</cell>
+          <cell>toppiilé</cell>
+          <cell/>
+        </row>
+        <row>
+          <cell>plur.</cell>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொ.ப.பி.க.ள</cell>
+          <cell>toppigal</cell>
+          <cell/>
+        </row>
+        <row>
+          <cell/>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொ.ப.பி.க.ளு.டை.ய</cell>
+          <cell>toppigaludaïïa</cell>
+          <cell/>
+        </row>
+        <row>
+          <cell/>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொ.ப.பி.க.ளு.க.கு</cell>
+          <cell>toppigalucu</cell>
+          <cell/>
+        </row>
+        <row>
+          <cell/>
+          <cell>ac<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொ.ப.பி.க.<del>ளெ</del><add place="above">ளை</add></cell>
+          <cell>toppigaléi</cell>
+          <cell/>
+        </row>
+        <row>
+          <cell/>
+          <cell>v<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொ.ப.பி.க.<del>ள</del><del><add place="above">ளை</add></del><add place="below">ளெ</add></cell>
+          <cell>toppigalé</cell>
+          <cell/>
+        </row>
+        <row>
+          <cell/>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொ.ப.பி.க.ளி.ல</cell>
+          <cell>toppigalil</cell>
+          <cell/>
+        </row>
+      </table>
+      <p><lb/>de mesmo modo <term xml:lang="ta-Taml">தலை</term> cabeca. <term xml:lang="ta-Taml">நெய</term> manteiga. Os nomes 
+            <lb/>da 2ª appellativos femenos fazem no <expan>v<ex>ocativ</ex>o</expan> em <term xml:lang="ta-Taml">அ</term>, a; et tem
+            <lb/>a significacaõ do plural ut <term xml:lang="ta-Taml">ம.ற.த.தி.ய, உ.ங.க.ளு.க.கு, னா.ண.மி.
+            <lb break="no"/>ல.லை.யொ</term>; marattïa ungaluccu nanamillaïïo, as Maratis naõ tem vergonha.
+        </p>
+      <p><lb/><term xml:lang="ta-Taml">சடடை</term><term xml:lang="ta-Taml">சடடையினுடைய</term> cabaya
+        </p>
+      <milestone n="10r" unit="folio" facs="29"/>
+      <head>3ª Declinacaõ</head>
+      <p><lb/> Todos os nomes acabados em <term xml:lang="ta-Taml">உ</term> û,vaõ polla 3ª declinação 
+            <lb/> ut <term xml:lang="ta-Taml">பிரம்பு</term>, pirambu bordaõ no plural fazem em <term xml:lang="ta-Taml">கள</term>, cal.
+        </p>
+      <table>
+        <row>
+          <cell>Sing.</cell>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">கம.பு</cell>
+          <cell>cambu</cell>
+          <cell>o pao</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml"> க.ம.பு.டை.ய</cell>
+          <cell>cambudeïïa</cell>
+          <cell>do pao</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">க.ம.பு.க.கு</cell>
+          <cell>cambucu</cell>
+          <cell>ao pao</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ac<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">க.ம.பை</cell>
+          <cell>cambei</cell>
+          <cell>o pao</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>v<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">க.ம.பெ</cell>
+          <cell>cambé</cell>
+          <cell>ô pao!</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">க.ம.பி.ல்</cell>
+          <cell>no pao</cell>
+          <cell>cambil</cell>
+        </row>
+        <row>
+          <cell>plur.</cell>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">க.ம.பு.க.ள</cell>
+          <cell>cambugal</cell>
+          <cell>os paos</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">க.ம.பு.க.ளு.டை.ய</cell>
+          <cell>cambudeïïa</cell>
+          <cell>dos paos</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">க.ம.பு.க.ளு.க.கு</cell>
+          <cell>cambucalucu</cell>
+          <cell>aos paos</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ac<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">க.ம.பு.க.ளை</cell>
+          <cell>cambucalaï</cell>
+          <cell>os paos</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>v<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">க.ம.பு.க.ளெ</cell>
+          <cell> cambucalé</cell>
+          <cell>ô paos!</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">க.ம.பு.க.ளி.ல</cell>
+          <cell>cambucalil</cell>
+          <cell>nos paos</cell>
+        </row>
+      </table>
+      <p><lb/>nota que os nomes acabados em <term xml:lang="ta-Taml">டு</term>dũ ou em <term xml:lang="ta-Taml">று</term> desta declinacaõ tem algua diferenca vt:
+        </p>
+        <table>
+          <row>
+            <cell>Sing.</cell>
+            <cell>n<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">விடு</cell>
+            <cell>vidu</cell>
+            <cell>casa</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>g<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml"> விடடி.னு.டை.ய</cell>
+            <cell>vittinudaïa</cell>
+            <cell>da casa</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>d<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml"> வி.டடு.க.கு</cell>
+            <cell>vittuccu</cell>
+            <cell>â casa</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>ac<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">விடடை</cell>
+            <cell>vittei</cell>
+            <cell>pera a casa</cell>
+          </row>
+          </table>
+          <milestone n="10v" unit="folio" facs="31"/>
+          <table>
+          <row>
+            <cell/>
+            <cell>v<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">விடெ</cell>
+            <cell>vidé</cell>
+            <cell>ô casa</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>ab<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">வி.டடி.ல</cell>
+            <cell>na casa</cell>
+            <cell>vittil</cell>
+          </row>
+          <row>
+            <cell>plur.</cell>
+            <cell>n<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">விடு.க.ள</cell>
+            <cell>vidouhal</cell>
+            <cell>as casas</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>g<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">விடு.க.ளு.டை.ய</cell>
+            <cell> viducaludeïa</cell>
+            <cell>das casas</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>d<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">விடு.க.ளு.க.கு</cell>
+            <cell>viducalucu</cell>
+            <cell>âs casas</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>ac<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">விடு.க.ளை</cell>
+            <cell>viducalaï</cell>
+            <cell>as casas</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>v<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">விடு.க.ளெ</cell>
+            <cell>viducalé</cell>
+            <cell>ô casas!</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>ab<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">வி.டு.க.ளி.ல</cell>
+            <cell>viducalil</cell>
+            <cell>nas casas</cell>
+          </row>
+          <row>
+            <cell>Sing.</cell>
+            <cell>n<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">சொ.று</cell>
+            <cell>tchoru</cell>
+            <cell>arros cosido</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>g<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml"> சொ.றி.னு.டை.ய</cell>
+            <cell xml:lang="ta-Taml"> சொ.ததி.னு.டை.ய</cell>
+            <cell>tchorinudaïïa</cell>
+            <cell>tchorittinudèïa</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>d<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">சொ.தது.க.கு</cell>
+            <cell xml:lang="ta-Taml"> சொ.று.ககு</cell>
+            <cell>tchottuccu</cell>
+            <cell>tchorruccu</cell>
+          </row>
+      </table>
+        <table>
+          <row>
+            <cell/>
+            <cell>ac<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">சொ.ததை</cell>
+            <cell xml:lang="ta-Taml">சொ.றை</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>v<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">சொ.றெ</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>ab<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">சொததில்</cell>
+            <cell xml:lang="ta-Taml">சொறில</cell>
+          </row>
+          <row>
+            <cell>plur.</cell>
+            <cell>n<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">சொறுகள</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>g<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">சொறுகளுடைய</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>d<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">சொறுகளுககு</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>ac<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">சொறுகளை</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>v<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">சொறுகளெ</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>ab<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">சொறுகளில</cell>
+          </row>
+      </table>
+      <milestone n="11r" unit="folio" facs="33"/>
+      <head>4ª <del>5ª</del>Declinacaõ</head>
+      <p><lb/> Os nome acabados em <term xml:lang="ta-Taml">ம</term> ma, saõ da 4ª declinacaõ
+            <lb/> e no <expan>g<ex>enitiv</ex>o</expan> do <expan>sing<ex>olar</ex>o</expan> duas maneiras, ou em <term xml:lang="ta-Taml">உடைய</term>, ou 
+	     <lb/> em <term xml:lang="ta-Taml">தினுடைய</term>, tinudeïa, no <expan>plur<ex>al</ex></expan> em <term xml:lang="ta-Taml">கள</term> ut. 
+        </p>
+      <table>
+        <row>
+          <cell>Sing.</cell>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">ப.ண.ட.ம</cell>
+          <cell>pandam</cell>
+          <cell>fato</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">ப.ண.ட.னு.டை.ய</cell>
+          <cell xml:lang="ta-Taml">ப.ண.த.தி.னு.டை.ய</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">பணடததுககு</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ac<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">பணடததை</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>v<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">பணடத்தெ</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">பணடததில்</cell>
+        </row>
+        <row>
+          <cell>plur.</cell>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">பணடஙகள</cell>
+          <cell>cambugal</cell>
+          <cell>os paos</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">பணடஙளுடைய</cell>
+          <cell>cambudeïïa</cell>
+          <cell>dos paos</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">பணடஙளுககு</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ac<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">பணடஙளை</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>v<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">பணடஙளெ</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">பணடஙளில்</cell>
+        </row>
+      </table>
+      <p><lb/> De mesmo modo <term xml:lang="ta-Taml">எடம</term><add place="above">edam</add>, o lugar, <term xml:lang="ta-Taml">பிறகாசம</term>, <add place="above">prahatcham</add>,  <term xml:lang="ta-Taml"> பிறசாததினுடைய </term> lume, <lb/> <term xml:lang="ta-Taml"> செபததினுடைய </term> oracaõ
+</p>
+      <milestone n="12r" unit="folio" facs="35"/>
+      <head>5ª Declinacaõ</head>
+      <p><lb/> Os nome acabados em <term xml:lang="ta-Taml">ன </term> nana ser forem neutros (os femenos vaõ polla 6ª) et os acabados <term xml:lang="ta-Taml">ண</term> nánana.  
+<term xml:lang="ta-Taml">ஆ</term> â saõ da 1° declinaçaõ no <expan>g<ex>enitiv</ex>o</expan> do 
+            <lb/>em <term xml:lang="ta-Taml">ல</term> laana, <term xml:lang="ta-Taml">ள</term> laana, et <term xml:lang="ta-Taml">ர</term> raana, saõ da 5ª et todos guardaõ a ordem
+            <lb/>geral tirado <expan>q<ex>ue</ex></expan> as <expan>q<ex>ue</ex></expan> 
+	     <lb/> acabaõ em <term xml:lang="ta-Taml">ள</term> laana, fazem no plural em <term xml:lang="ta-Taml">கள</term> ut <term xml:lang="ta-Taml">ஆள</term>, al pessoa faz <term xml:lang="ta-Taml"> ஆளககள்</term>, alccal porem os mais
+            <lb/>fazem em <term xml:lang="ta-Taml">கள</term>, gal. Tambem algumas vezes os nomes acabados em lb/&gt;em <term xml:lang="ta-Taml">ல</term> laana fazem em <lb/>fazem em <term xml:lang="ta-Taml">கள</term>, et os 
+	    <lb/> acabados em <term xml:lang="ta-Taml">ள</term> laana em <term xml:lang="ta-Taml">கள</term>, gal poronde naõ
+            <lb/>se pode dar regra certa.
+        </p>
+      <table>
+        <row>
+          <cell>Sing.</cell>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தூண</cell>
+          <cell>tuun</cell>
+          <cell>colona</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தூணுடை.ய</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தூணுககு</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ac<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தூணை</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>v<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தூணெ</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தூணில</cell>
+        </row>
+        <row>
+          <cell>plur.</cell>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தூணகள</cell>
+          <cell>tungal</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தூணகளுடை.ய</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தூணகளுககு</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ac<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தூணகளை</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>v<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தூணகளெ</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தூணகளில</cell>
+        </row>
+      </table>
+      <p>do mesmo modo <term xml:lang="ta-Taml">ஊர்</term>, ur, <del> o  
+  lugar</del> a terra no <expan>g<ex>enitiv</ex>o</expan>
+	<term xml:lang="ta-Taml">ஊருடைய</term>.</p>
+      <milestone n="13r" unit="folio" facs="37"/>
+      <head>6ª Declinacaõ</head>
+      <p><lb/> A esta pertenecem os nomes acabados em <term xml:lang="ta-Taml">ன </term>, nana, que saõ masculinos dos quais se
+            <lb/> deriva pola maior parte femeno, ut de <term xml:lang="ta-Taml">மறவன</term> maraven, <term xml:lang="ta-Taml">மறததி</term> maratti acabaõ em <term xml:lang="ta-Taml">ஆ</term> 
+            <lb/>â, et no plural, fazem sempre em <term xml:lang="ta-Taml">எர</term> er no mais gardaõ a regra geral.
+        </p>
+      <table>
+        <row>
+          <cell>Sing.</cell>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொடடியன</cell>
+          <cell>totten</cell>
+          <cell>de gente</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொடடியனுடைய</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொடடியனுககு</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ac<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொடடியனை</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>v<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொடடியதொடடியனெ</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொடடியனில</cell>
+          <cell xml:lang="ta-Taml">தொடடியனிலலெ</cell>
+        </row>
+        <row>
+          <cell>plur.</cell>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொடடியர்</cell>
+          <cell>tottiar</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொடடியரு<del><term xml:lang="ta-    Taml"> ககுடை.ய</term></del><add>டைய</add></cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொடடியருககு</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ac<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொடடியரை</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>vo<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொடடியரெ.</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">தொடடியரில, ல்லெ</cell>
+        </row>
+      </table>
+      <p> tem no <expan>v<ex>ocativ</ex>o</expan> do singular em <term xml:lang="ta-Taml">யா</term> longo. Tira le <term xml:lang="ta-Taml">தடடான்</term>.</p>
+      <milestone n="13v" unit="folio" facs="39"/>
+      <p><lb/> tattan que tem a ultima lunga et no <expan>v<ex>ocativ</ex>o</expan> do singular fazem como no
+        <lb/> <expan>n<ex>ominativ</ex>o</expan> no plural faz em ar. Tira se tàmbem <term xml:lang="ta-Taml">நாய்ன</term>, naïen, senhor que no 
+        <lb/><expan>v<ex>ocativ</ex>o</expan> do singular acaba em <term xml:lang="ta-Taml">எ</term> tambem aqui pertensem alguns nomes 
+        <lb/> masculinos ainda que delles se naõ derive femenõ ut <term xml:lang="ta-Taml">கணககன</term> canaquen escrivaõ
+        	    <lb/><term xml:lang="ta-Taml">கனககர்</term>, canaquer, escrivans.
+        	    <lb/> Tambem naõ por esta declinacaõ <term xml:lang="ta-Taml">தம்பிரான்</term>, tampiran deos et <term xml:lang="ta-Taml">மகன</term>, mahen, filho.
+               <lb/> Poren nõ <expan>v<ex>ocativ</ex>o</expan> singular fazem em <term xml:lang="ta-Taml">எ</term> e ut <term xml:lang="ta-Taml">தம்பிரானெ</term>, tampirane, nõ plural faz 
+        	   <lb/><term xml:lang="ta-Taml">தம்பிரான்கள்</term>. 
+        	   <lb/> Tambem aqui pertensem os nomes que se compom dos nomes proprios de lugares e
+        <lb/> desta particula <term xml:lang="ta-Taml">ஆன</term>, an que significaõ homen de tal lugar ut <term xml:lang="ta-Taml">தூத்துக்குடியாள</term>, 
+    <lb/><term xml:lang="ta-Taml">தூத்துக்குடியார</term>. tuttucurial, tuttucuriar.
+<lb/>Tambem aqui se reduzem alguns nomes compostos dos certos nomes et desta <lb/> particula <term xml:lang="ta-Taml">ஆர</term>, ar no singular et மார no plural as quais pariculas se diuntaõ por 
+<lb/>honra, no <term xml:lang="ta-Taml">பாதிரியார்</term> padriar no plural <term xml:lang="ta-Taml">பாதிரிமார்</term> padrimar e no <expan>v<ex>ocativ</ex>o</expan> faz em e.
+<lb/>Item os compostos de alguns nomes substantivos et desta particula <term xml:lang="ta-Taml">காறன</term>, caren, 
+<lb/>ut <term xml:lang="ta-Taml">வியாதிக்காறன</term>, viadi caren, home doente. 
+	</p>
+      <milestone n="14r" unit="folio" facs="41"/>
+      <p><lb/>os nomes acabados em ஆ â et no plural em ககள, cal, da prima declinacaõ, saõ os 
+            <lb/> segintes.
+        </p>
+      <table>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">அம்.பா</cell>
+          <cell>am<del>b</del><add>p</add>pa, cantiga dos 
+		marinheiros</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">அலுவா</cell>
+          <cell>aluova, conserva doco</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">அல்லசா</cell>
+          <cell>allatcha, o remo da champana</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">ஆவுதிரியா</cell>
+          <cell>avoutiria, canale marinho</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">இரசா</cell>
+          <cell>jratcha, Rei</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">உலுவ</cell>
+          <cell>ulluva,<del>uluva</del>, trigo</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">உளுவை</cell>
+          <cell>uluvai, hum peixe</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">எரா</cell>
+          <cell>era, hum peixe</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">ஒரா</cell>
+          <cell>ora, outro peixe</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">கடடா</cell>
+          <cell>catta, outro peixe</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">கததா</cell>
+          <cell>catta <del>peixe</del>, Senhor</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">கலிபபா</cell>
+          <cell>calippa, cantiga certa</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">கறுவா</cell>
+          <cell>caruca, canela</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">கணணா</cell>
+          <cell>canna</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">கா</cell>
+          <cell>ca, horta</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">ஆவுதிரியா</cell>
+          <cell>avoutiria	canale marinho</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">கிடா</cell>
+          <cell>cida, boi</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">சிளா</cell>
+          <cell>cila, arvore de caranda</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">குடா</cell>
+          <cell>couda</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">குநதிரா</cell>
+          <cell>contira, gundra</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">குபபா</cell>
+          <cell>couppa, a corda do pao da lema</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">குலலா</cell>
+          <cell>culla, 	modo de barete, ou mitra dos gentios</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">குளா</cell>
+          <cell>cula</cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">கொசா</cell>
+          <cell>
+            <del>cotcha</del>
+            <add>cocha</add>
+          </cell>
+        </row>
+        <row>
+          <cell/>
+          <cell xml:lang="ta-Taml">கொடா</cell>
+          <cell>coda</cell>
+        </row>
+      </table>
+      <milestone n="14v" unit="folio" facs="43"/>
+      <head>dos Nomes adiectivos</head>
+      <p><lb/> pouco saõ os nomes de tres terminacaõs menos de huã de duas saõ os 
+mais. Este 
+<lb/> nome <del>நல</del> <term xml:lang="ta-Taml">ஆ நலலவன</term> nallaven, que quer diser bon declinaremus, porque por elle vaõ os 
+<lb/>partecipios dos verbos. Tem no singular tres terminacoens, no plural duas, prima 
+<lb/>pero o masculino e fem(inin)o, outra pera o neutro.
+        </p>
+      <table>
+          <row>
+            <cell>Sing.</cell>
+            <cell>n<hi rend="superscript">õ</hi></cell>
+            <cell>bonus</cell>
+            <cell>bona</cell>
+            <cell>bonum</cell>
+          </row>
+          <row>
+            <cell xml:lang="ta-Taml">நலலவன்</cell>
+            <cell xml:lang="ta-Taml"> நலலவள்</cell>
+            <cell xml:lang="ta-Taml"> நலலது</cell>
+          </row>
+          <row>
+            <cell>nallavenudeïa</cell>
+            <cell>nallaveludeïa</cell>
+            <cell>nalladuudeïa</cell>
+          </row>
+          <row>
+            <cell>Sing.</cell>
+            <cell>g<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">நலலவனுடைய</cell>
+            <cell xml:lang="ta-Taml">நலலவளுடைய</cell>
+            <cell xml:lang="ta-Taml">நலலது உடைய</cell>
+          </row>
+          <row>
+            <cell>nallavanucu</cell>
+            <cell>nallavalucu</cell>
+            <cell>nalladucu</cell>
+          </row>
+          <row>
+            <cell>d<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">நலலவனுககு</cell>
+            <cell xml:lang="ta-Taml">நலலவளுககு</cell>
+            <cell xml:lang="ta-Taml">நலலதுககு</cell>
+          </row>
+          <row>
+            <cell>nallavaneï</cell>
+            <cell>nallavaleï</cell>
+            <cell>nalladai</cell>
+          </row>
+          <row>
+            <cell>ac<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">நலலவனை</cell>
+            <cell xml:lang="ta-Taml">நலலவளை</cell>
+            <cell xml:lang="ta-Taml">நலலதை</cell>
+          </row>
+          <row>
+            <cell>nallavané</cell>
+            <cell>nallavalé</cell>
+            <cell>nalladé</cell>
+          </row>
+          <row>
+            <cell>v<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">நலலவனெ</cell>
+            <cell xml:lang="ta-Taml">நலலவளெ</cell>
+            <cell xml:lang="ta-Taml">நலலதெ</cell>
+          </row>
+          <row>
+            <cell>nallavanil</cell>
+            <cell>nallavalil</cell>
+            <cell>nalladil</cell>
+          </row>
+          <row>
+            <cell>ab<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">நலலவனில்</cell>
+            <cell xml:lang="ta-Taml">நலலவளில்</cell>
+            <cell xml:lang="ta-Taml">நலலதில்</cell>
+          </row>
+          <row>
+            <cell>plur</cell>
+            <cell>nallavergal</cell>
+            <cell>nalladugal</cell>
+          </row>
+          <row>
+            <cell>n<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">நலலவவர்கள்</cell>
+            <cell xml:lang="ta-Taml">நலலதுகள்</cell>
+          </row>
+          <row>
+            <cell>plur</cell>
+            <cell>nallavergaloudeïa</cell>
+            <cell>nallavaducaludeïa</cell>
+          </row>
+          <row>
+            <cell>g<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">நலலவவர்களுடைய</cell>
+            <cell xml:lang="ta-Taml">நலலவதுகளுடைய</cell>
+          </row>
+          <row>
+            <cell>nallavergalucu</cell>
+            <cell>nallavaducalucu</cell>
+          </row>
+          <row>
+            <cell>d<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">நலலவர்களுககு</cell>
+            <cell xml:lang="ta-Taml">நலலவதுகளுககு</cell>
+          </row>
+          <row>
+            <cell>nallavergaleï</cell>
+            <cell>nallavadugaleï</cell>
+          </row>
+          <row>
+            <cell>ac<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">நலலவவர்களை</cell>
+            <cell xml:lang="ta-Taml">நலலவதுகளை</cell>
+          </row>
+          <row>
+            <cell>nallavergal[</cell>
+            <cell>nallavadugalé</cell>
+          </row>
+          <row>
+            <cell>v<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">நலலவவர்களெ</cell>
+            <cell xml:lang="ta-Taml">நலலவதுகளெ</cell>
+          </row>
+          <row>
+            <cell>nallavergalil</cell>
+            <cell>nallavaducalil</cell>
+          </row>
+          <row>
+            <cell>ab<hi rend="superscript">õ</hi></cell>
+            <cell xml:lang="ta-Taml">நலலவவர்களில</cell>
+            <cell xml:lang="ta-Taml">நலலவதுகளில்</cell>
+          </row>
+      </table>
+      <p><lb/>de mesmo modo <term xml:lang="ta-Taml">உடையவன</term><term xml:lang="ta-Taml">உடையவள</term><term xml:lang="ta-Taml">உடையது</term></p>
+      <milestone n="15v" unit="folio" facs="45"/>
+      <p><lb/>tambem serve de adiectivos os substantivos essa particula <term xml:lang="ta-Taml">உளளவன</term>, ullaven, que 
+<lb/>he participio de <term xml:lang="ta-Taml">உணடு</term> undu et <term xml:lang="ta-Taml">ஆனவன</term>, anaven, participio de <term xml:lang="ta-Taml">ஆகிறென்</term>, acren; ut 
+<lb/><term xml:lang="ta-Taml">மிதிலுளளவன, முதல் உளளவன</term> mudel, dinero, ullaven, homẽ que tem. Homẽ que tem dinero. 
+<lb/><term xml:lang="ta-Taml">சுததமான</term> chutamana quer dizer limpeza ou sanctidade, <term xml:lang="ta-Taml">அவன</term>, aven, homen, ambos <lb/>iuntos, homen que he iusto <term xml:lang="ta-Taml">சுததமானவன</term>, chutamanaven. O modo de adïïtivar he tirar 
+<lb/>a dearadeira sillaba e em lugar della por o pronome declinado os ambos, polla <lb/>declinaçaõ do substantivo ut <term xml:lang="ta-Taml">சுததமான,பெதுரு</term> chutamana pedru, sanctu pedru, <term xml:lang="ta-Taml">வியாதி</term>, 
+<lb/><term xml:lang="ta-Taml">உளள, மனதன்</term>, viadi ulla manuden, homen doente. Tirase <term xml:lang="ta-Taml">பொலலாத[வன]</term> pollādaven, 
+<lb/>que perde as derdeiras sillabas, e que significa mao homen; <term xml:lang="ta-Taml">பொலலா,மனுதி</term> polla 
+<lb/>manudi, roim molhêr.
+<lb/>Algũas vezes <term xml:lang="ta-Taml">ஆர்</term> (quem) ar, <term xml:lang="ta-Taml">யெது</term>, edou, qui et os pronomes <term xml:lang="ta-Taml">நி</term>, ni, vos, tu, <term xml:lang="ta-Taml">னான</term>, 
+<lb/>nan, eu, <term xml:lang="ta-Taml">தான</term>, tan, elle quando see adiuticaõ tem a significaõ interrogativa, ut 
+<lb/><term xml:lang="ta-Taml">வனதவனார்</term> vandavanar, quem he que ia vi, ou quem he o que veïo <term xml:lang="ta-Taml">வநத[-]நியென,வனதாய</term>, 
+<lb/>vandava nien vandaï, tu que vieste, pera que vieste? <term xml:lang="ta-Taml">விட<del>டிலெ</del>டுககு நி, யென, வந்தாய</term>, 
+<lb/><del>vittile</del> vittucu ni en vandaï, porque viestes [ora a casa]? 
+<lb/>Notesse que nestes adiectivos, ut, <term xml:lang="ta-Taml">நலலவன</term>, nallaven, bom, esta inserrado o <lb/>substantivo que he <term xml:lang="ta-Taml">அவன</term>, aven, e o adiectivo que he nalla, unde pera dizer pedro 
+<lb/>bom, dize<del>ra</del>mos, <term xml:lang="ta-Taml">நலல,பெதுரு</term>, nalla pedru, do mesmo modo saõ os partecipios ut 
+<lb/><term xml:lang="ta-Taml">விசுவதிககிறவன</term>, vichuvadiccraven, pessoa que cre e <term xml:lang="ta-Taml">விசுவதிககிற,பெதுரு</term>, vichuvadiccra 
+<lb/>pedru, pedro cre.
+</p>
+      <milestone n="16r" unit="folio" facs="47"/>
+      <p><lb/>os adiectivos de duas terminacoens ut <term xml:lang="ta-Taml">யெலல</term>, ella, que he pera o m. et f. quer 
+<lb/>diser todos, <term xml:lang="ta-Taml">யெலலாம</term>, ellam, per o n. e <term xml:lang="ta-Taml">சிலர்</term>, tchiler, m. e f. alguns <term xml:lang="ta-Taml">சிலது</term>, ou 
+<lb/><term xml:lang="ta-Taml">சிறாது</term>, tchiladu ou tchiridu per o n. e de huma terminacaõ ut <term xml:lang="ta-Taml">அனெகம</term>, anegam, 
+<lb/>muitos, <term xml:lang="ta-Taml">செர</term>, tchera, todos. Quando se adiutivaõ guardaõ esta regra, que depois do 
+<lb/>substantivo cõ que se adiutivaõ se pom depois do substantivo esta particula <term xml:lang="ta-Taml">உம்</term>, 
+<lb/>um, ut <term xml:lang="ta-Taml">சிலாமனுதரும, உநதார்கள</term>, tchiler manouderum vandurgal, [asse] porem de continuar 
+<lb/>a oracaõ, desso modo <term xml:lang="ta-Taml">உம</term> se [luta] per E, et em lugar que pongamos em la portuguesa 
+<lb/>pedro et paulo vieram, <del>lutamus em</del>
+<lb/>pognamus em Malabar <term xml:lang="ta-Taml">பெதுரும, பாவுலும, வநதார்கள</term>, pedrum pavulum vandarcal. 
+<lb/>Declinasse esse adiectivo <term xml:lang="ta-Taml">யெலலாரும</term>, ellarum, todos, as vezes pondesse antes do 
+<lb/>substantivo a particula <term xml:lang="ta-Taml">யெலலா</term>, ella, e depois a particula, um, declinando se so 
+<lb/>o substantivo ut <term xml:lang="ta-Taml">யெலலா, செவுகரும, படைககு, பபொனாரகள</term>, ella chevugarum padaïdu 
+<lb/>ponargal. Todos os sabados forão a guerra. Porem <term xml:lang="ta-Taml">அனெகம்</term> e <term xml:lang="ta-Taml">சிலர்</term>, anegam e chiler 
+<lb/>sempre se poem antes do substantivo, e <term xml:lang="ta- Taml">சிலர்</term>, chiler, perde o, <term xml:lang="ta-Taml">ர</term>, ut, <term xml:lang="ta-Taml">சிலபெர்கள</term>, <lb/><term xml:lang="ta-Taml">வந்தர்கள்</term>, chilapergal vandargal, alguns gentes vieraõ <term xml:lang="ta-Taml">அனெகம, பெர், ஒளிதது,பபொனாகள</term>, 
+<lb/>anegam perolittu ponargal, muitos fugiraõ.
+<lb/>Ellam, quando se acha sem substantivo ita declinatur
+	</p>
+      <table>
+        <row>
+          <cell>n<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">எலலார்</cell>
+          <cell>ellar</cell>
+          <cell>யெலலாம</cell>
+        </row>
+        <row>
+          <cell>g<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">எலலாருடைய</cell>
+          <cell>
+            <sic>யெலலாததுககும</sic>
+          </cell>
+        </row>
+        <row>
+          <cell>d<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">எலலாருககும</cell>
+          <cell>யெலலாததுககும</cell>
+        </row>
+        <row>
+          <cell>ac<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">எலலாரையும</cell>
+          <cell>ellar</cell>
+          <cell>யெலலாதையும</cell>
+        </row>
+        <row>
+          <cell>ab<hi rend="superscript">õ</hi></cell>
+          <cell xml:lang="ta-Taml">எலலாரிலும்</cell>
+          <cell>ellar</cell>
+          <cell>யெலலாததிலும</cell>
+        </row>
+      </table>
+      <milestone n="16v" unit="folio" facs="49"/>
+      <head>dos Comparativos</head>
+      <p><lb/>Servem dos comparativos alguns nomens adiuntando lhe essa particula <term xml:lang="ta-Taml">பாறகக</term>, parca, 
+<lb/>ou <term xml:lang="ta-Taml">காடடில</term>, cattil ao acc(usativ)o ou ab(lativ)o do nome inferior, estando o 
+<lb/>comparativo em n(ominativ)o ut <term xml:lang="ta-Taml">பெதுருவை,பபாறகக, யுவானி, நலலவன</term> pedruvei parca Joani 
+<lb/>nallaven, Joao he melhor que pedro, parca esta depois de acc(usativ)o e quando se 
+<lb/>ouver de pâr depois do ab(lativ)o se accrecenta esta particula, um ut <term xml:lang="ta-Taml">யிதிலும்</term>, 
+<lb/><term xml:lang="ta-Taml">பாறகக, அது, நலலது</term>, idilum parca adu nalladu, melhor he aquello que isto. 
+	</p>
+      <milestone n="17r" unit="folio" facs="51"/>
+      <head>dos Superaltivos</head>
+      <p><lb/>Superlativo he quando se comparaõ muitas causas do mesmo genero e antes do nomes 	
+<lb/>inferor, que deve estar en acc(usatv)o ou ab(lativ)o ha de ester esta particula 	
+<lb/><term xml:lang="ta-Taml">யெலலா</term>	ella e depois esta <term xml:lang="ta-Taml">காடடில</term>, ou <term xml:lang="ta-Taml">பாறகக</term> cattil ou parca, e o superlativo ha de 
+<lb/>estar em n(ominativ)o ut <term xml:lang="ta-Taml">யெலலா, ராசாககளை, பபாறகக, யிநத, இராசா, நலலவன</term>, ella 	
+<lb/>Jraicalai parca inda Jraia nallaven, esse Rei he milhor que todos os Reis.
+		</p>
+      <milestone n="17v" unit="folio" facs="53"/>
+      <head>dos nomes de qualidade e quantitade</head>
+      <p><lb/>por naõ ter esta lingua nomens proprios da qualidade et quantidade servem pera os 
+<lb/>da qualidade esse participio <term xml:lang="ta-Taml">கொததவன, கொததவள, கொததது</term>, cottaven, cottaval, 
+<lb/>cottadu, pondo lhe antes huma destas particulas <term xml:lang="ta-Taml">அபபடடி, இபபடி, யெபபடி</term>, appadi, 
+<lb/>ippadi, eppadi, <term xml:lang="ta-Taml">அபபடி, ககொததவனானால, யெனககு, வெணடாம</term>, appadi cottavananal 
+<lb/>ïénaccu vendam; si este homen he tal naõ quero della <term xml:lang="ta-Taml">இபபடி, ககொதத, சடடை, உணடாககு</term>, 
+<lb/>ippadi cotta chatti undaccu, faze hum cabay deste modo. 
+<lb/>Cotta segi a <lb/>mesma regra que nella. 
+	</p>
+    </body>
+  </text>
+</TEI>

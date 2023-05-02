@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "hypher": "./hypher.js",
+    "mirador": "./mirador.js",
+    "mirador-annotations": "./mirador-annotations.js",
+    "mirador-image-tools": "./mirador-image-tools.js"
+  }
+}

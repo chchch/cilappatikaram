@@ -1,0 +1,146 @@
+\documentclass[14pt]{extarticle}
+\usepackage{polyglossia,fontspec,xunicode}
+\usepackage[normalem]{ulem}
+\usepackage[noend,noeledsec,noledgroup]{reledmac}
+\usepackage[margin=1in]{geometry}
+
+\arrangementX[A]{paragraph}
+\arrangementX[B]{paragraph}
+\renewcommand*{\thefootnoteB}{\Roman{footnoteB}}
+\arrangementX[C]{paragraph}
+\renewcommand*{\thefootnoteC}{\roman{footnoteC}}
+
+\newcommand*{\caesura}{\linebreak}
+
+\Xarrangement[A]{paragraph}
+\Xnotenumfont[A]{\bfseries}
+\Xlemmafont[A]{\bfseries}
+
+\setdefaultlanguage{sanskrit}
+\setotherlanguage{english}
+
+\newfontfamily\devanagarifont[
+    Path = ./fonts/brill-typeface/,
+    UprightFont = brill-roman,
+    BoldFont = brill-bold,
+    ItalicFont = brill-italic,
+    BoldItalicFont = brill-bold-italic,
+    Language = Default,
+    Script = Latin,
+    Extension = .ttf]{Brill}
+\newfontfamily\devafont[
+    Path = ./fonts/brill-typeface/,
+    UprightFont = brill-roman,
+    BoldFont = brill-bold,
+    ItalicFont = brill-italic,
+    BoldItalicFont = brill-bold-italic,
+    Extension = .ttf]{Brill}
+
+\usepackage[Devanagari,DevanagariExtended]{ucharclasses}
+
+\makeatletter
+\setTransitionsFor{Devanagari}%
+ {\let\curfamily\f@family\let\curshape\f@shape\let\curseries\f@series\devafont}
+ {\fontfamily{\curfamily}\fontshape{\curshape}\fontseries{\curseries}\selectfont}
+\makeatother
+
+\makeatletter
+\setTransitionsFor{DevanagariExtended}%
+ {\let\curfamily\f@family\let\curshape\f@shape\let\curseries\f@series\devafont}
+ {\fontfamily{\curfamily}\fontshape{\curshape}\fontseries{\curseries}\selectfont}
+\makeatother
+
+\begin{document}
+    \raggedright
+
+\lineation{page}
+\begingroup
+\beginnumbering
+
+\pstart
+ śārīraṃ nāma prathamam adhikaraṇaṃ prathamo 'dhyāyaḥ 
+\pend
+
+
+\setstanzaindents{2,2,2,2,2,2,2,2,2,2,2,2,2,2,2}
+\stanza[\smallskip]
+
+ \large \textsc{[Sahadeva]} &
+\large yā śāstrarūpeṇa vicitrarūpair anuṣṭhitā viśvam idaṃ vicitram | &
+\large ādyantahīnā khalu nirmimīte sarasvatī tāṃ praṇamāmi devīṃ || 1 || &
+\large veditā sarvaśāśtrāṇāṃ bhaṭṭo ’bhūn mukulābhidhaḥ | &
+\large labdhvā kutaścid ādarśāṃ bhraṣṭāmnāyaṃ sumuddhṛtam || 2 || &
+\large kāvyālaṅkāraśāstraṃ yat tenaitad vāmanoditam | &
+\large asūyā tan na kartavyā viśeṣālokibhiḥ kvacit || 3 || &
+\large ākarṇya bhavatas tasmād dayitasya vidhīyate | &
+\large vivṛtiḥ sahadevena vāmanīyasya samprati || 4 || &
+\large vispaṣṭārtham idam prāyaḥ sūtraṃ vṛttisvarūpakam | &
+\large vivṛttis tan mayaitasmin saṃkṣepeṇa viracyate || 5 || \&
+
+
+
+\setstanzaindents{2,2,2,2,2,2,2,2,2,2,2,2,2,2,2}
+\stanza[\smallskip]
+
+ \large \textsc{[Vāmana]} &
+\large praṇamya paramaṃ jyotir vāmanena kavipriyā | &
+\large kāvyālaṅkārasūtrāṇāṃ sveṣāṃ vṛttir vidhīyate || \&
+
+
+
+\pstart
+
+            \textsc{[Sahadeva]} praṇamyetyādinā iṣṭadevatāṃ namaskṛtya sūtrāṇi vyācaṣṭe | kavipriyeti | kavīn prīṇātīti kaviprīḥ tena kavipriyā vāmanena | kavipriyā kavivallabhā vā vṛttiḥ || 
+\pend
+
+
+\setstanzaindents{2,2,2,2,2,2,2,2,2,2,2,2,2,2,2}
+\stanza[\smallskip]
+
+ \large kāvyaṃ grāhyam alaṅkārāt || 1.1.1 || \&
+
+
+
+\pstart
+ \textsc{[Vāmana]}kāvyaṃ khalu grāhyam upādeyaṃ bhavati alaṅkārāt | kāvyaśabdo ’yaṃ guṇālaṅkārasaṃskṛtayoḥ śabdārthayor vartate | bhaktyā tu śabdārthamātravacano 'tra gṛhyate || 
+\pend
+
+
+\pstart
+ \textsc{[Sahadeva]} \textbf{kāvyaṃ} \textbf{grāhyam} \textbf{alaṅkārād} ityādikayā pañcasūtryā sambandhābhidheyaprayojanāni pratipādayitum upakramate | doṣā heyatvena guṇālāṅkārāś copādeyatvenābhidheyāḥ, śāstram abhidhāyakam, yad vakṣyati: śāstratas te iti | śāstrasya doṣādīnāṃ cābhidhānābhidheyalakṣaṇaḥ sambandho ’rthād uktaḥ, doṣādiparijñānaṃ ca prayojanam | tasyāpi prayojanaṃ doṣahānena guṇālaṅkārādānena sundarakāvyaniṣpattiḥ | tasyāpi prayojanaṃ dṛṣṭādṛṣṭaṃ ca, yad vakṣyati svakaṇṭhena — kāvyaṃ sad dṛṣṭādrṣṭārthaṃ prītikīrtihetutvāt | atas trīṇy api sambandhābhidheyaprayojanāni pratipāditāni | adhyāyānte tu prayojanasthāpānety upasaṃhāraḥ prayojanasya prādhānyāt | prayojanaṃ hi sarvatra pravṛttihetuḥ, yad uktam: “prayojanam anuddiśya na mando ’pi pravartate” iti | 
+\pend
+
+
+\pstart
+ nanu guṇālaṅkārajanitaśobhau śabdārthau kāvyaṃ na tu kevalau | tat kiṃ bhedena pratipādyate kāvyaṃ grāhyam alaṅkārād ity āśaṅkyāha — kāvyaśabdo ’yam iti | mukhyārthaparityāgena lākṣaṇikam arthaṃ bhajata iti bhaktir lakṣaṇā | sā cātrābhidheyasambandhāt | guṇālaṅkārasaṃskṛtaśabdārthalakṣaṇo hi samudāyaḥ kāvyaśabdābhidheyaḥ | tatsambaddhaś ca śabdārthamātralakṣaṇo ’vayavaḥ | tad uktam — 
+
+
+    abhidheyena saṃbandhāt sādṛśyāt samavāyataḥ | 
+
+\smallskip
+vaiparītyāt kriyāyogāl lakṣaṇā pañcadhā matā || \\
+iti | prayojanaṃ cātra pṛthaguddhṛtaguṇālaṅkārasvarūpavyutpādanam | 
+\pend
+
+
+\pstart
+ \textsc{[Vāmana]}ko ’sāv alaṅkāra ity ata āha 
+\pend
+
+
+\setstanzaindents{2,2,2,2,2,2,2,2,2,2,2,2,2,2,2}
+\stanza[\smallskip]
+
+ \large saundaryam alaṅkāraḥ || 1.1.2 || \&
+
+
+
+\pstart
+ \textsc{[Vāmana]}alaṅkṛtir alaṅkāraḥ | karaṇavyutpattyā punar alaṅkāraśabdo ’yam upamādiṣu vartate || 
+\pend
+
+
+
+\endnumbering
+\endgroup
+\end{document}

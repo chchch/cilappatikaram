@@ -1,0 +1,46 @@
+<html lang="en"><head></head><body lang="en">﻿
+
+
+<title>TST to BnF EAD converter</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <link rel="icon" type="image/png" href="../../img/favicon-32.png">
+<link rel="stylesheet" href="../../css/tufte.css">
+<style>
+  ol > li {
+    margin-bottom: 2rem;
+  }
+  button, input {
+    font-size: 1.1rem;
+  }
+</style>
+<script type="module" src="convert-web.mjs"></script>
+
+<!--link rel="stylesheet" href="../../css/fonts.css">
+<link rel="stylesheet" href="../../css/tst.css">
+<link rel="stylesheet" href="../../css/header.css">
+<link rel="stylesheet" href="../../css/transcription.css"-->
+<body>
+  <article>
+    <section>
+      <h1>Convert TST files to BnF EAD format</h1>
+      <ol>
+        <li>Export your EAD file from the PiXML interface (via « édition externe »).
+          <ul>
+            <li><label for="eadfile">Upload your EAD file:</label> <input autocomplete="off" type="file" id="eadfile" name="eadfile" accept=".xml"></li>
+          </ul>
+        </li>
+        <li>(Optional: <a href="https://teibyexample.org/tools/TBEvalidator.htm">Validate</a> the corresponding TST XML file.)
+          <ul>
+            <li><label for="tstfile">Upload your TST file:</label> <input autocomplete="off" type="file" id="tstfile" name="tstfile" accept=".xml"></li>
+            <li><label for="subfiles">Upload any subunits:</label> <input autocomplete="off" type="file" id="subfiles" name="subfiles" accept=".xml" multiple></li>
+          </ul>
+        </li>
+        <li><button id="convertfile">Convert!</button></li>
+        <li>Validate the new EAD file, then re-upload it via PiXML.</li>
+      </ol>
+    </section>
+  </article>
+</body>
+</html>

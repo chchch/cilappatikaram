@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"><ead id="N10001">
+  <?ir_sysID 100466?>
+  <?comp_sysID 4934854?>
+  <?mass_edit 1?>
+  <?comp_id_being_edited 4934854?>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid>FRBNFEAD000103771</eadid>
+    <filedesc>
+         <titlestmt>
+            <titleproper>Indien <num>238</num>. Akarāti Nikaṇṭu</titleproper>
+            <subtitle>Notice descriptive</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Bibliothèque nationale de France</publisher>
+            <date calendar="gregorian" era="ce">2022</date>
+         </publicationstmt>
+      </filedesc>
+    <profiledesc>
+         <creation audience="internal">Cette notice a été encodée en XML conformément à la DTD EAD (version 2002).</creation>
+         <langusage>Notice rédigée en <language langcode="eng">anglais</language>.</langusage>
+      </profiledesc>
+  </eadheader>
+  <archdesc level="item">
+    <did>
+         <unitid type="cote">Indien 238</unitid>
+         <unitid type="ancienne cote">Tamoul 238</unitid>
+         <unitid type="ancienne cote">Ariel 50</unitid>
+         <unitid type="ancienne cote">a/25</unitid>
+         <unittitle>Akarāti Nikaṇṭu</unittitle>
+         <unittitle type="non-latin originel">அகராதி நிகண்டு</unittitle>
+         <langmaterial>Manuscript in <language langcode="tam">Tamil</language>.</langmaterial>
+         <unitdate calendar="gregorian" era="ce" normal="1854">1854. No internal date. No dated by Vinson (1866-) nor by Cabaton (1912). Not after 1854, since part of the collection of Édouard Ariel (1818-1854), bequeathed in 1855 to the Société Asiatique, Paris (Rosny 1868).</unitdate>
+         <physdesc>
+            <geogname role="5020">South India, Tamil Nadu.</geogname>
+            <lb/>
+            <physfacet type="écriture">
+        Scribal hands: (U1) Tamil script. Incised, soot. Hand #1, unblackened, for left-marginal blessing on recto and list of bundles on verso. Hand #2: <persname role="0270">Ariel's title page scribe</persname>?(U2, U3) Tamil script. Incised, soot. Hand #3. Hand # 4 for U3, f82r.</physfacet>
+            <lb/>
+            <physfacet type="codicologie">
+               <emph render="bold">CoverFront</emph>: the <emph render="bold">front cover</emph>.  <emph render="bold">U1</emph>: 1 bifolio = <emph render="bold">
+                  <emph render="italic">Akarāti Nikaṇṭu</emph>: Title Page</emph>. No foliation. Reused folio, with an unblackened previous text on the verso: a list of manuscripts/bundles (<emph render="italic">cuvaṭi</emph> and books (<emph render="italic">pottakam</emph>). The anteriority of the list is proved by the fact that the second hole has been made over it. 415 x 30 mm. <emph render="bold">U2</emph>: 1 folio = <emph render="bold">
+                  <emph render="italic">Akarāti Nikaṇṭu</emph>: Invocation</emph> (satellite stanza). No foliation. Verso blank. 410 x 30 mm. <emph render="bold">U3</emph>: 82 folios = <emph render="bold">
+                  <emph render="italic">Akarāti Nikaṇṭu</emph>: Text</emph>. Tamil foliation {1-2}, 3-82. 410 x 30 mm.
+
+
+
+ <emph render="bold">CoverBack</emph>: the <emph render="bold">back cover</emph>. </physfacet>
+            <lb/>
+            <lb/>
+            <physfacet type="support">Palm leaf (Pothi.) </physfacet>
+            <extent/>
+            <dimensions>
+               <emph render="bold">leaf</emph>: 30  × 410-415 mm. <emph render="bold">object</emph>: 30  × 415  × 60 mm.  </dimensions>
+            <physfacet type="réglure">3-4 columns. Layout in columns for U4 (2-3 columns), except f1rv. Final letter regularly indented at the end of line.</physfacet>
+            <lb/>
+            <lb/>
+         </physdesc>
+         <repository>
+            <corpname authfilenumber="751041006" normal="Bibliothèque nationale de France. Département des Manuscrits" source="Repertoire_des_Centres_de_Ressources">Bibliothèque nationale de France. Département des Manuscrits</corpname>
+         </repository>
+      </did>
+    <altformavail type="num">
+      <p>Il existe une version numérisée de ce document.</p>
+    </altformavail>
+    <dao actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b525156589" linktype="simple" show="new">
+      <daodesc>
+        <p>Numérisation effectuée à partir d'un document original : Indien 238.</p>
+      </daodesc>
+    </dao>
+    
+    
+    <dsc/>
+  <scopecontent>
+         <p>The <emph render="italic">Akarāti Nikaṇṭu</emph>, entitled here <emph render="italic">Citampara Akarāti Nikaṇṭu</emph> (U1). 3368 <emph render="italic">cūttiram</emph>s.</p>
+         <p>See <emph render="italic">Madras Tamil Lexicon</emph>, s.v.: <blockquote>
+               <p>அகராதிநிகண்டு akarāti-nikaṇtu , n.  id. +. Name of a  thesaurus in verse, as giving the words in alphabetical order, by Citampara-rēvaṇa-cittar, A.D. 1594; ஒரு நிகண்டு நூல்.</p>
+            </blockquote>
+         </p>
+         <p>Description based on the examination of the original manuscript (February 2023).</p>
+         <p>Dimensions assessed at the time of examination.</p>
+         <p>
+            <emph render="bold">Contents</emph> (Single-text)</p>
+         <p>(U1) <title>Akarāti Nikaṇṭu: Title Page</title>
+         </p>
+         <p>(U2) <title>Akarāti Nikaṇṭu: Invocation (satellite stanza)</title>
+         </p>
+         <p>(U3) <title>Akarāti Nikaṇṭu: Mūlam</title>
+            <list>
+               <item>
+                  <emph render="bold">Incipit</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f7">[[1]r]</extref> [main text area]
+      <lb/>[1] cōti viṉāyakar pātam</p>
+                  </blockquote>
+               </item>
+               <item>
+                  <emph render="bold">Incipit</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f9">[[2]r]</extref> [2] Araṉ eṉpatuvē ~ caṅkaraṉ ākum
+    <lb/>[3] Ampikai yeṉpatu maiyavaṉ pēyarē</p>
+                  </blockquote>
+               </item>
+               <item>
+                  <emph render="bold">Completion statement</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f8">[[1]v]</extref> [2] &gt;[…] yeṉpatu pāyira muṟṟum {piḷḷaiyār cuḻi (short)}</p>
+                  </blockquote>
+               </item>
+               <item>
+                  <emph render="bold">Completion statement</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f44">[19v]</extref> [3] Au-mutal-pala-cūttira muṟṟum {piḷḷaiyār cuḻi (short)} {Āka} <num>778</num>
+                        <lb/>[4] Akaratip pēyart tokuti muṟṟum {piḷḷaiyār cuḻi (long)}
+    [5] teṇṭapāṇi tuṇai {piḷḷaiyār cuḻi (long)}</p>
+                  </blockquote>
+               </item>
+               <item>
+                  <emph render="bold">Completion statement</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f73">[34r]</extref> {Āka} tokuti reṇṭu
+    <lb/>[6] kku cūttiram {piḷḷaiyār cuḻi (long)} <num>1313</num> {piḷḷaiyār cuḻi (short)}</p>
+                  </blockquote>
+               </item>
+               <item>
+                  <emph render="bold">Completion statement</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f167">[81r]</extref> [4] vemmutal muṟṟum {piḷḷaiyār cuḻi (long)}{piḷḷaiyār cuḻi (short)}</p>
+                  </blockquote>
+               </item>
+               <item>
+                  <emph render="bold">Completion statement</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f168">[81v]</extref> [7] muṟṟum {piḷḷaiyār cuḻi (short)}</p>
+                  </blockquote>
+               </item>
+               <item>
+                  <emph render="bold">Completion statement</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f169">[82r]</extref> [column 1] 
+    <lb/>[1] melittu vacaṉa viḷaṅkiya puliyūr vāḻa
+    <lb/>[2] naṟ-<persname role="0070">citampara-rēvaṇa-cittaṉ</persname> nīti yiraṟṟa
+    <lb/>[3] rum Akarāti nikaṇṭ' iṉiṟ pattāvatu vaka
+    <lb/>[4] rātip pēyart tokuti mettiya cū
+    <lb/>[5] tiram mūṉṉūṟṟ' eḻu nāṉk'el
+    <lb/>[6] […]vatu vakarātip pēyart tokuti
+
+    <lb/>[column 2] 
+    <lb/>[1] muṟṟum</p>
+                  </blockquote>
+               </item>
+               <item>
+                  <emph render="bold">Colophon</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f169">[82r]</extref> [column 1] 
+    <lb/>[1] melittu vacaṉa viḷaṅkiya puliyūr vāḻa
+    <lb/>[2] naṟ-<persname role="0070">citampara-rēvaṇa-cittaṉ</persname> nīti yiraṟṟa
+    <lb/>[3] rum Akarāti nikaṇṭ' iṉiṟ pattāvatu vaka
+    <lb/>[4] rātip pēyart tokuti mettiya cū
+    <lb/>[5] tiram mūṉṉūṟṟ' eḻu nāṉk'el
+    <lb/>[6] […]vatu vakarātip pēyart tokuti
+
+    <lb/>[column 2] 
+    <lb/>[1] muṟṟum {Āka} tokutti pattukku cū
+    <lb/>[2] ttiram <num>3368</num>
+                     </p>
+                  </blockquote>
+               </item>
+            </list>
+         </p>
+         <p>
+            <emph render="bold">Paratexts</emph>
+            <list>
+               <item>(CoverFront) <emph render="bold">shelfmark</emph>, cover, front: BnF current shelfmark sticker: “INDIEN 238” (<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f1">front cover, recto</extref>).</item>
+               <item>(CoverFront) <emph render="bold">documenting note</emph>, cover, front: BnF donation sticker “DON N° <emph render="bold">[</emph>vacat<emph render="bold">]</emph>” (<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f1">front cover, recto</extref>).</item>
+               <item>(U1) <emph render="bold">shelfmark</emph>: Shelfmark in black ink: “a/25” (<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f3">f[1]r</extref>).</item>
+               <item>(U1) <emph render="bold">shelfmark</emph>: Shelfmark sticker (Société Asiatique?), written in black ink: “675” (<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f3">f[1]r</extref>).</item>
+               <item>(U3) <emph render="bold">verse beginning</emph>, intertextual, marginal, left: Left-marginal intertitles, in-text intertitles (chapter preview).</item>
+               <item>(U3) <emph render="bold">intertitle</emph>: Left-marginal <emph render="italic">cūttiram</emph> beginnings (<emph render="italic">pratīka</emph>). See e.g. <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f81">f38r</extref>, <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f115">f55r</extref>, <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f167">f81r</extref>, etc.</item>
+               <item>(U1, T1) <emph render="bold">header, blessing (prose)</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f3">[[1]r]</extref>
+                  <lb/>[left margin]
+  <lb/>[1-2] caṟkupātan tuṇai{piḷḷaiyār cuḻi (long)}
+    </item>
+               <item>(U1, T1) <emph render="bold">title</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f3">[[1]r]</extref> [main text area]
+      <lb/>[1] citampara
+      <lb/>[2] Akarāti
+      <lb/>[3] nikaṇṭu</item>
+               <item>(U1, T1) <emph render="bold">register, blessing (prose), header</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f4">[[1]v]</extref>
+                  <lb/>[left margin]
+  <lb/>[1] {piḷḷaiyār cuḻi (long)}
+        <lb/>[2] Oṁ
+      
+      <lb/>[column 1] 
+    <lb/>[1] tiruppukaḻ <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[2] kataic cuvaṭi <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[3] naṉṉūl cuvaṭi <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+    
+    <lb/>[column 2]             
+      <lb/>[1] tivākarapos·takam <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[2] nālaṭiyar pos·takam <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[3] vayittiyapos·takam <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[4] nālaṭiyar pos·ttakam <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[5] palapāṭṭuc cuvaṭi <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[6] Āt=ticcuvaṭi veṇpā <emph render="bold">(</emph>[?]<emph render="bold">)</emph> tirai
+      
+    <lb/>[column 3] 
+      <lb/>[1] nal<emph render="bold">¿</emph>vi<emph render="bold">?</emph>ḻi cuvaṭi <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[2] taṇṭalaiyār mālai <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[3] Aruṇaikalampakam <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[4] patiṉōn tokuti
+      <lb/>[5] nikaṇṭu cuvaṭi <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[6] nikaṇṭu neyiḻtam
+      
+    <lb/>[column 4] 
+      <lb/>[1] pottakam <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[2] teluṅku cuvaṭi <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[3] Akarāti <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[4] ka<emph render="bold">[</emph>n<emph render="bold">]</emph>tar alaṅkāram <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[5] vētavikaṟpam <emph render="bold">[</emph>_<emph render="bold">]</emph> 1      
+      
+    <lb/>[column 5] 
+    <lb/>[1] <emph render="bold">(</emph>cāt=tirakkuṭavai<emph render="bold">)</emph>c cuvaṭi <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[2] <emph render="bold">(</emph>vētateṭṭu<emph render="bold">)</emph> pot=takam <emph render="bold">[</emph>_<emph render="bold">]</emph> 1
+      <lb/>[3] kuṟaḷ kākita-pot=takam ~ 1
+    <lb/>[4] tiruvācakapot=takam
+      <lb/>[5] piḷḷaittamiḻ <emph render="bold">[</emph>_<emph render="bold">]</emph> 1</item>
+               <item>(U2, T2) <emph render="bold">header, blessing (prose)</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f5">[[1]r]</extref>
+                  <lb/>[left margin]
+  <lb/>[1] hari Om
+    <lb/>[2] naṉṟāka
+    <lb/>[3] kuru vāḻka
+    </item>
+               <item>(U2, T2) <emph render="bold">satellite stanza, invocation (metrical)</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f5">[[1]r]</extref> [main text area]
+      [1] Eṇṇiya veṇṇiya veytupa <lb/>[2] kaṇṇutaṟ
+        pavaḷa mālvarai payan<lb/>[3] ta
+        kavaḷa yāṉaiyiṉ kaḻalpaṇi <lb/>[4] vōrkkē {piḷḷaiyār cuḻi (short)}</item>
+               <item>(U3, T3) <emph render="bold">header, blessing (prose), title</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f7">[[1]r]</extref>
+                  <lb/>[left margin]
+  <lb/>[1] hari Om
+    <lb/>[2] naṉṟāka °
+    <lb/>[3] kurupātam
+      <lb/>[4] Akārati
+      <lb/>[5] nikaṇṭu
+      <lb/>[6] śrīrāmā °
+    </item>
+               <item>(U3, T3) <emph render="bold">preface, completion-statement, incipit</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f7">[[1]r]</extref> [main text area]
+      <lb/>[1] cōti viṉāyakar pātam […]
+      <lb/>[2-7] […]
+      
+     <lb/>
+                  <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f8">[[1]v]</extref>
+                  <lb/>[main text area]
+      <lb/>[1] […]
+      <lb/>[2] […] ° yeṉpatu pāyira muṟṟum {piḷḷaiyār cuḻi (short)}</item>
+               <item>(U3, T3) <emph render="bold">header, intertitle</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f9">[[2]r]</extref>
+                  <lb/>[left margin]
+  <lb/>[1-3] mutalāvat' akati
+    </item>
+               <item>(U3, T3) <emph render="bold">satellite stanza, invocation (metrical)</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f9">[[2]r]</extref> [column 1] 
+      [1] Attimukatt' uttamaṉai niṟṟam niṉai cittamē</item>
+               <item>(U3, T3) <emph render="bold">header, foliation, intertitle</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f23">[9r]</extref>
+                  <lb/>[left margin]
+  <lb/>[1-2] muppēyar
+            <lb/>[3] {piḷḷaiyār cuḻi (short)} 9
+
+    </item>
+               <item>(U3, T3) <emph render="bold">total sūtras</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f44">[19v]</extref> [3] &gt;[…] {Āka} <num>778</num>
+               </item>
+               <item>(U3, T3) <emph render="bold">blessing (prose)</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f44">[19v]</extref> [5] teṇṭapāṇi tuṇai {piḷḷaiyār cuḻi (long)}</item>
+               <item>(U3, T3) <emph render="bold">header, foliation, intertitle</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f45">[20r]</extref>
+                  <lb/>[left margin]
+  <lb/>[1-3] Ireṇṭāvatuk kakatip pēyart tokuti
+      [4] <num>20</num>
+               </item>
+               <item>(U3, T3) <emph render="bold">header, foliation, intertitle</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f73">[34r]</extref>
+                  <lb/>[left margin]
+      <lb/>[1] {piḷḷaiyār cuḻi (short)}  34
+  [2-3] ca<emph render="bold">¿</emph>ka<emph render="bold">(</emph>rā<emph render="bold">)</emph>
+                  <emph render="bold">?</emph>kati {piḷḷaiyār cuḻi (short)}
+    </item>
+               <item>(U3, T3) <emph render="bold">total sūtras</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f73">[34r]</extref> [5] &gt;[…] {Āka} tokuti reṇṭu
+    <lb/>[6] kku cūttiram {piḷḷaiyār cuḻi (long)} <num>1313</num> {piḷḷaiyār cuḻi (short)}</item>
+               <item>(U3, T3) <emph render="bold">intertitle</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f73">[34r]</extref> [7] mūṉṟāvatu cakarāti peyart tokuti {piḷḷaiyār cuḻi (short)} {piḷḷaiyār cuḻi (short)} {piḷḷaiyār cuḻi (short)} 
+    <lb/>[8] {series of {piḷḷaiyār cuḻi (short)} as line-fillers}</item>
+               <item>(U3, T3) <emph render="bold">header, intertitle</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f89">[42r]</extref>
+                  <lb/>[left margin]
+  <lb/>[1-4] nālavatu ṉakarātip peyart tokuti
+    </item>
+               <item>(U3, T3) <emph render="bold">header, foliation, verse beginning</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f115">[55r]</extref>
+                  <lb/>[left margin]
+  <lb/>[1] nai
+  <lb/>[2] {piḷḷaiyār cuḻi (short)} 55
+  [3] nē
+    </item>
+               <item>(U3, T3) <emph render="bold">header, foliation, verse beginning</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f167">[81r]</extref>
+                  <lb/>[left margin]
+      <lb/>[1] {piḷḷaiyār cuḻi (short)} 81
+  [2] vē
+    </item>
+               <item>(U3, T3) <emph render="bold">completion-statement</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f169">[82r]</extref> [column 1] 
+    <lb/>[1] melittu vacaṉa viḷaṅkiya puliyūr vāḻa
+    <lb/>[2] naṟ-<persname role="0070">citampara-rēvaṇa-cittaṉ</persname> nīti yiraṟṟa
+    <lb/>[3] rum Akarāti nikaṇṭ' iṉiṟ pattāvatu vaka
+    <lb/>[4] rātip pēyart tokuti mettiya cū
+    <lb/>[5] tiram mūṉṉūṟṟ' eḻu nāṉk'el
+    <lb/>[6] […]vatu vakarātip pēyart tokuti
+
+    <lb/>[column 2] 
+    <lb/>[1] muṟṟum</item>
+               <item>(U3, T3) <emph render="bold">total sūtras</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b525156589/f169">[82r]</extref> [1] &gt;[…] {Āka} tokutti pattukku cū
+    <lb/>[2] ttiram <num>3368</num>
+               </item>
+            </list>
+         </p>
+         <p>
+            <emph render="bold">Transcription conventions</emph>
+            <lb/>
+            <emph render="bold">()</emph> indicates unclear text. <emph render="bold">〚〛</emph> indicates deletions. <emph render="bold">¿?</emph> indicates <emph render="italic">sic erat scriptum</emph> or surplus text. <emph render="bold">[]</emph> indicates text supplied or corrected by the cataloguer. <emph render="bold">{}</emph> indicates a note. <emph render="bold">[</emph>_<emph render="bold">]</emph> indicates spaces. <emph render="bold">[</emph>vacat<emph render="bold">]</emph> indicates the scribe deliberately left a space. […] indicates an ellipsis. [?] indicates a gap in the reading. <emph render="bold">General</emph> ― Unmarked length of <emph render="italic">ō</emph> and <emph render="italic">ē</emph> supplied. Unmarked <emph render="italic">puḷḷi</emph> supplied. Conjectural reading (text unclear) between parentheses. Supplied reading (text lost) between square brackets. Alternative readings separated by slash. <emph render="bold">In transliteration</emph> ― Unmarked elided overshort <emph render="italic">u</emph> supplied as an apostrophe. Uppercase for initial vowels. Symbols between curly brackets. <emph render="bold">Abbreviations</emph> ― c = column; f = folio; lf = library foliation; lm = left margin; r = recto; rm = right margin; u / U followed by a number = unit (codicological and/or textual); v = verso.               </p>
+      </scopecontent><bibliography>
+         <bibref>Cabaton, Antoine. 1912. <emph render="italic">Catalogue sommaire des manuscrits indiens, indo-chinois et malayo-polynésiens</emph>. Bibliothèque nationale. Département des manuscrits. Paris: E. Leroux. — See <extref show="new" actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b10329763p/f56">p. 38, no. 238</extref>.</bibref>
+         <bibref>Rosny, Léon de. 1868. “La bibliothèque tamoule de M. Ariel, de Pondichéry”. In: <emph render="italic">Variétés orientales</emph> (pp. 177‒224). Paris: Maisonneuve. </bibref>
+         <bibref>James, Gregory. 2000. <emph render="italic">Colporuḷ: A History of Tamil Dictionaries</emph>. 1st edition. Chennai: Cre-A. — See p. 703.</bibref>
+         <bibref>Vinson, Julien &amp; Feer, Léon &amp; s.n. 1866-. <emph render="italic"> Catalogue des manuscrits tamoul et télinga</emph>. Manuscript, BnF Indien 577. — See <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b105375868/f127">f. 56r, no. <emph render="bold">〚</emph>222<emph render="bold">〛</emph> 231</extref>. </bibref>
+      </bibliography><custodhist>
+         <p>Owned by <persname role="4010" source="BnF" authfilenumber="ark:/12148/cb143513141">Édouard Ariel</persname> (1818-1854). Bequeathed by Édouard Ariel to Société Asiatique (Rosny 1868, p. 177).</p>
+      </custodhist><acqinfo>
+         <p>Received, August 1st, 1866, from the Société Asiatique. See BnF, département des Manuscrits, inventaire 7 = <emph render="italic">Dons: manuscrits et imprimés documentaires, 1848-1895</emph>, no. 1192.</p>
+      </acqinfo><processinfo>
+         <p>This catalogue entry has been adapted from:</p>
+         <p>
+            <bibref>FRANCIS, Emmanuel. 2023. “<extref actuate="onrequest" show="new" href="https://tst-project.github.io/mss/Indien_0238.xml">Indien 238. Akarāti Nikaṇṭu.</extref>” <emph render="italic">Descriptive Catalogue of the Texts Surrounding Texts Project.</emph> Paris: TST Project. <extref actuate="onrequest" show="new" href="https://doi.org/10.5281/zenodo.6475589">doi:10.5281/zenodo.6475589</extref>
+            </bibref>
+         </p>
+      </processinfo></archdesc>
+</ead>

@@ -1,0 +1,24 @@
+{
+  "name": "tst-src",
+  "version": "0.1",
+  "description": "NPM files to be converted to ES6 modules",
+  "main": "index.js",
+  "repository": "https://github.com/TST-Project",
+  "author": "Charles Li",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@blueprintjs/core": "^3.52.0",
+    "@blueprintjs/icons": "^3.31.0",
+    "acorn": "^8.7.0",
+    "hypher": "^0.2.5",
+    "mirador": "^3.3.0",
+    "mirador-annotations": "^0.5.0",
+    "mirador-image-tools": "^0.11.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}

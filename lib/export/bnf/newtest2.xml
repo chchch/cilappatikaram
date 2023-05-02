@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?><ead>
+   <eadheader>
+      <eadid/>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Indien <num>5</num>. Collection (3 items, 3 works)</titleproper>
+            <subtitle>Notice descriptive</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Bibliothèque nationale de France</publisher>
+            <date calendar="gregorian" era="ce">2022</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation audience="internal">Cette notice a été encodée en XML conformément à la DTD EAD (version 2002).</creation>
+         <langusage>Notice rédigée en <language langcode="eng">anglais</language>.</langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="otherlevel" otherlevel="recueil">
+      <did>
+         <unitid type="cote">Indien 5</unitid>
+         <unitid type="ancienne cote">Tamoul 5</unitid>
+         <unitid type="ancienne cote">Ariel 178</unitid>
+         <unitid type="ancienne cote">c/64</unitid>
+         <unittitle>Collection (3 items, 3 works)</unittitle>
+         
+         <langmaterial>Manuscript in <language langcode="tam">Tamil</language>.</langmaterial>
+         <unitdate calendar="gregorian" era="ce" normal="1854">1854. No internal date. Not dated by Vinson (1868) nor by Cabaton (1912). Not after 1854, since part of the collection of Édouard Ariel (1818-1854).</unitdate>
+         <physdesc>
+            <geogname role="5020">Tamilnadu.</geogname>
+            <lb/>
+            <physfacet type="écriture">
+        Scribal hands: (U1) Ariel's title scribe. Tamil script: regular <emph render="italic">puḷḷi</emph>, long <emph render="italic">ō/ē</emph> (double-curled <emph render="italic">kompu</emph>). Incised, soot. (U2) Tamil script. Incised, soot. (U3) Tamil script. Incised, soot. (U4) Tamil script. Incised, soot. </physfacet>
+            <lb/>
+            <physfacet type="codicologie">
+               <emph render="bold">coverFront</emph>: the <emph render="bold">front cover</emph>. <emph render="bold">U1</emph>: 1 folio = <emph render="bold">Title Page (additional)</emph>. No foliation. Verso blank. f1v more dark = original outside page. 3 unblackened lines on f1v. <emph render="bold">Indien5a</emph>: 38 folios. <emph render="bold">U2</emph>: 1 folio = <emph render="bold">Diagram</emph>. No foliation. Verso blank.  <emph render="bold">U3</emph>: 1 folio = <emph render="bold">Stanza (?)</emph>. No foliation. Verso blank.  <emph render="bold">Indien5b</emph>: 9 folios. <emph render="bold">Indien5c</emph>: 10 folios. <emph render="bold">U4</emph>: 1 folio = <emph render="bold">guard leaf</emph>. No foliation. Verso blank.  <emph render="bold">coverBack</emph>: the <emph render="bold">back cover</emph>. </physfacet>
+            <lb/>
+            <lb/>
+            <physfacet type="support">Palm leaf (Pothi. 2 stringholes.) </physfacet>
+            <extent/>
+            <dimensions/>
+         </physdesc>
+         <repository>
+            <corpname authfilenumber="751041006" normal="Bibliothèque nationale de France. Département des Manuscrits" source="Repertoire_des_Centres_de_Ressources">Bibliothèque nationale de France. Département des Manuscrits</corpname>
+         </repository>
+      </did>
+      
+      
+      
+      
+      
+      
+   <scopecontent>
+         <p>The palm-leaf bundle, a composite manuscript, entitled <emph render="italic">Viratam Mūṉṟu</emph> on its additional title page, contains:
+  <list>
+               <item>The <emph render="italic">Manōṉmaṉiyantāti</emph> (Indien 5a).</item>
+               <item>The <emph render="italic">Vināyakaruṭaiya Mūlātārattiṉuṭaiya Uyir</emph> (Indien 5b).</item>
+               <item>
+                  <emph render="italic">Mantra</emph>s and <emph render="italic">cakkaram</emph>s (Indien 5c).</item>
+            </list>
+         </p>
+         <p>The bundle also contains:
+<list>
+               <item>A title page folio (U1).</item>
+               <item>A diagram (U2).</item>
+               <item>A stanza (U3).</item>
+               <item>A back guard leaf (U4).</item>
+            </list>
+  U2 and U3 are found between Indien 5a and Indien 5b and might be part of either.
+</p>
+         <p>Description based on the digital images available on Gallica.</p>
+         <p>Dimensions after Cabaton (1912).</p>
+         <p>
+            <emph render="bold">Contents</emph> (Composite manuscript)</p>
+         <p>(U1) <title>Title Page (additional)</title>
+            <list/>
+         </p>
+         <p>(U2) <title>Diagram</title>
+            <list/>
+         </p>
+         <p>(U3) <title>Stanza (?)</title>
+            <list/>
+         </p>
+         <p>(U4) <title>guard leaf</title>
+            <list/>
+         </p>
+         <p>
+            <emph render="bold">Paratexts</emph>
+            <list>
+               <item>
+                  <emph render="bold">shelfmark</emph>, cover, front: BnF shelfmark sticker: “INDIEN 5” (<extref actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10527103s/f1">front cover, recto</extref>).</item>
+               <item>
+                  <emph render="bold">user-related note</emph>, front: BnF bequest sticker “DON N° [vacat]” (<extref actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10527103s/f1">front cover, recto</extref>).</item>
+               <item>(U1) <emph render="bold">shelfmark</emph>: Shelfmark in black ink: “c/64” (<extref actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10527103s/f3">f[1]r</extref>).</item>
+               <item>(U4) <emph render="bold">title</emph>: Added in black ink: “kaḷḷāṭavurai” (<extref actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10527103s/f123">f[1]v</extref>). This has no relation with the content of the manuscript.</item>
+               <item>(U1, T1) <emph render="bold">title</emph>: viratam mūṉṟu</item>
+               <item>(U1, T1) <emph render="bold">title</emph>: manōṉmaṉiyantāti</item>
+               <item>(U1, T1) <emph render="bold">title</emph>: vināyakar mūlātāravuyiṟ</item>
+               <item>(U1, T1) <emph render="bold">title</emph>: mantiracillaṟai</item>
+            </list>
+         </p>
+         <p>
+            <emph render="bold">Transcription conventions</emph>
+            <lb/>
+            <emph render="bold">()</emph> indicates unclear text. <emph render="bold">{}</emph> indicates a note. <emph render="bold">[vacat]</emph> indicates the scribe deliberately left a space. […] indicates an ellipsis.  <emph render="bold">General</emph> ― Unmarked length of <emph render="italic">ō</emph> and <emph render="italic">ē</emph> supplied. Unmarked <emph render="italic">puḷḷi</emph> supplied. Conjectural reading (text unclear) between parentheses. Supplied reading (text lost) between square brackets. Alternative readings separated by slash. <emph render="bold">In transliteration</emph> ― Unmarked elided overshort <emph render="italic">u</emph> supplied as an apostrophe. Uppercase for initial vowels. Symbols between curly brackets. <emph render="bold">Abbreviations</emph> ― c = column; f = folio; lf = library foliation; lm = left margin; r = recto; rm = right margin; u / U followed by a number = unit (codicological and/or textual); v = verso. </p>
+      </scopecontent><dsc>
+         <c level="otherlevel" otherlevel="partie_composante">
+            <did>
+               <unitid type="cote">Indien 5a</unitid>
+               <unittitle>Manōṉmaṉiyantāti</unittitle>
+               <unittitle type="non-latin originel">மநோன்மனியந்தாதி</unittitle>
+               <langmaterial>Manuscript in <language langcode="tam">Tamil</language>.</langmaterial>
+               <unitdate calendar="gregorian" era="ce" normal="1854">1854. No internal date. Not after 1854, since part of the collection of Édouard Ariel (1818-1854).</unitdate>
+               <physdesc>
+                  <geogname role="5020">Tamilnadu.</geogname>
+                  <lb/>
+                  <physfacet type="écriture">
+        Scribal hands: (U1, U2) Tamil script. Incised, soot. </physfacet>
+                  <lb/>
+                  <physfacet type="codicologie">
+                     <emph render="bold">U1</emph>: 1 folio = <emph render="bold">
+                        <emph render="italic">Manōṉmaṉiyantāti</emph>Invocation</emph>. No foliation. <emph render="bold">U2</emph>: 37 folios = <emph render="bold">
+                        <emph render="italic">Manōṉmaṉiyantāti</emph>: Text</emph>. Tamil foliation {1}, 2-37. </physfacet>
+                  <lb/>
+                  <lb/>
+                  <physfacet type="support">Palm leaf (Pothi. 2 stringholes.) </physfacet>
+                  <extent/>
+                  <dimensions/>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>The <emph render="italic">Manōṉmaṉiyantāti</emph>.</p>
+               <p>
+                  <emph render="bold">Contents</emph> (Single-text manuscript)</p>
+               <p>(U1) <title>Manōṉmaṉiyantāti: Invocation</title>
+                  <list>
+                     <item>
+                        <emph render="bold">Incipit</emph>
+                        <blockquote>
+                           <p>ceyyāta tīviṉaikaḷ ceytāluñ ceyta
+  <lb/>[2] kuṇam ~ […]</p>
+                        </blockquote>
+                     </item>
+                     <item>
+                        <emph render="bold">Explicit</emph>
+                        <blockquote>
+                           <p>[…] y-uṉṉ aṭiyai pukaḻum āṟē {piḷḷaiyār cuḻi (long)}</p>
+                        </blockquote>
+                     </item>
+                  </list>
+               </p>
+               <p>(U2) <title>Manōṉmaṉiyantāti: Mūlam</title>
+                  <list>
+                     <item>
+                        <emph render="bold">Incipit</emph>
+                        <blockquote>
+                           <p>poṉṉ itaḻ pānta malar koṉṟai […]</p>
+                        </blockquote>
+                     </item>
+                     <item>
+                        <emph render="bold">Explicit</emph>
+                        <blockquote>
+                           <p>[…] paramparam vaṉṉiyaṭi poṉṉiṉ muṭiyē {piḷḷaiyār cuḻi (long)} {nūṟu} {piḷḷaiyār cuḻi (long)}</p>
+                        </blockquote>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <emph render="bold">Paratexts</emph>
+                  <list>
+                     <item>(U1, T1) <emph render="bold">header</emph>: [left margin 1]
+  <lb/>[1-2] civamaya {inscribed inside <emph render="italic">oṁ </emph> symbol with a <emph render="italic">triśūla</emph>}
+  
+    <lb/>[left margin 2]
+  <lb/>[1-2] manōṉmaṇiyantāti {unblackened}
+  <lb/>[3-4] veṇpā</item>
+                     <item>(U1, T1) <emph render="bold">blessing (formulaic)</emph>: civamaya {inscribed inside <emph render="italic">oṁ </emph> symbol with a <emph render="italic">triśūla</emph>}</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: manōṉmaṇiyantāti {unblackened}</item>
+                     <item>(U1, T1) <emph render="bold">metre</emph>: veṇpā</item>
+                     <item>(U1, T1) <emph render="bold">blessing (formulaic)</emph>: tirucciṟṟampalam {piḷḷaiyār cuḻi (long)}</item>
+                     <item>(U2, T2) <emph render="bold">header</emph>: [left margin ]
+  <lb/>[1-4] varākiyammaṉuṭaiya pātamē tuṇai</item>
+                     <item>(U2, T2) <emph render="bold">blessing (formulaic)</emph>: varākiyammaṉuṭaiya pātamē tuṇai</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: viratam mūṉṟu</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: manōṉmaṉiyantāti</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: vināyakar mūlātāravuyiṟ</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: mantiracillaṟai</item>
+                  </list>
+               </p>
+               <p>
+                  <emph render="bold">Transcription conventions</emph>
+                  <lb/>
+                  <emph render="bold">()</emph> indicates unclear text. <emph render="bold">{}</emph> indicates a note. <emph render="bold">[vacat]</emph> indicates the scribe deliberately left a space. […] indicates an ellipsis.  <emph render="bold">General</emph> ― Unmarked length of <emph render="italic">ō</emph> and <emph render="italic">ē</emph> supplied. Unmarked <emph render="italic">puḷḷi</emph> supplied. Conjectural reading (text unclear) between parentheses. Supplied reading (text lost) between square brackets. Alternative readings separated by slash. <emph render="bold">In transliteration</emph> ― Unmarked elided overshort <emph render="italic">u</emph> supplied as an apostrophe. Uppercase for initial vowels. Symbols between curly brackets. <emph render="bold">Abbreviations</emph> ― c = column; f = folio; lf = library foliation; lm = left margin; r = recto; rm = right margin; u / U followed by a number = unit (codicological and/or textual); v = verso.     </p>
+            </scopecontent>
+            <bibliography>
+               <bibref>Cabaton, Antoine (1912). <emph render="italic">Catalogue sommaire des manuscrits indiens, indo-chinois &amp; malayo-polynésiens. Bibliothèque nationale. Département des manuscrits.</emph> Paris: E. Leroux. — See <extref actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b10329763p/f20">p. 2, no. 5</extref>
+               </bibref>
+               <bibref>Rosny, Léon de (1868). “La bibliothèque tamoule de M. Ariel, de Pondichéry”. In: <emph render="italic">Variétés orientales</emph> (pp. 177‒224). Paris: Maisonneuve.</bibref>
+               <bibref>Vinson, Julien &amp; Feer, Léon &amp; s.n. (1866-). <emph render="italic">Catalogue des manuscrits tamoul et télinga</emph>. Manuscript, BnF Indien 577. — See <extref actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b105375868/f17">f. 1r, no. 5</extref>. </bibref>
+               <bibref>Vinson, Julien (1868). <emph render="italic">Manuscrits tamouls</emph>. Proofreadings of the catalogue for Tamoul 1-204 (old shelfmark). Printed by the atelier oriental de l’Imprimerie nationale. BnF “4-IMPROR-77 (B)”. — See <extref actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b105333021/f11">p. 1, no. 5</extref>. — The same proofreadings with black ink handwritten corrections are found in Vinson et al. (1866-, f1-f49). </bibref>
+            </bibliography>
+            <custodhist>
+               <p>Owned by <persname role="4010" source="BnF" normal="Ariel, Édouard" authfilenumber="ark:/12148/cb143513141">Édouard Ariel</persname> (1818-1854). Bequested by Édouard Ariel to Société Asiatique (Rosny 1868, p. 177).</p>
+            </custodhist>
+            <acqinfo>
+               <p>Received, August 1st, 1866, from the Société Asiatique. See BnF, département des Manuscrits, inventaire 7 = <emph render="italic">Dons: manuscrits et imprimés documentaires, 1848-1895</emph>, no. 1192.</p>
+            </acqinfo>
+            <processinfo>
+               <p>This catalogue entry has been adapted from:</p>
+               <p>
+                  <bibref>FRANCIS, Emmanuel. 2022. “<extref actuate="onrequest" href="https://tst-project.github.io/mss/Indien_0005a.xml">Indien 5a. Manōṉmaṉiyantāti.</extref>” <emph render="italic">Descriptive Catalogue of the Texts Surrounding Texts Project.</emph> Paris: TST Project. <extref actuate="onrequest" href="https://doi.org/10.5281/zenodo.6475589">doi:10.5281/zenodo.6475589</extref>
+                  </bibref>
+               </p>
+            </processinfo>
+         </c>
+         <c level="otherlevel" otherlevel="partie_composante">
+            <did>
+               <unitid type="cote">Indien 5b</unitid>
+               <unittitle>Vināyakaruṭaiya Mūlātārattiṉuṭaiya Uyir</unittitle>
+               <unittitle type="non-latin originel">விநாயகருடைய மூலாதாரத்தினுடைய உயிர்</unittitle>
+               <langmaterial>Manuscript in <language langcode="tam">Tamil</language>.</langmaterial>
+               <unitdate calendar="gregorian" era="ce" normal="1854">1854. No internal date. Not after 1854, since part of the collection of Édouard Ariel (1818-1854).</unitdate>
+               <physdesc>
+                  <geogname role="5020">Tamilnadu.</geogname>
+                  <lb/>
+                  <physfacet type="écriture">
+        Scribal hands: (U2) Tamil script. Incised, soot. </physfacet>
+                  <lb/>
+                  <physfacet type="codicologie">
+                     <emph render="bold">U1</emph>: 1 folio = <emph render="bold">guard leaf</emph>. Blank recto verso. <emph render="bold">U2</emph>: 8 folios = <emph render="bold">
+                        <emph render="italic">Vināyakaruṭaiya Mūlātārattiṉuṭaiya Uyir</emph>
+                     </emph>. Tamil foliation {1}, 2-8. </physfacet>
+                  <lb/>
+                  <lb/>
+                  <physfacet type="support">Palm leaf (Pothi. 2 stringholes.) </physfacet>
+                  <extent/>
+                  <dimensions/>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>A work named <emph render="italic">Vināyakaruṭaiya Mūlātārattiṉuṭaiya Uyir</emph>.</p>
+               <p>
+                  <emph render="bold">Contents</emph> (Single-text manuscript)</p>
+               <p>(U2) <title>Vināyakaruṭaiya Mūlātārattiṉuṭaiya Uyir</title>
+                  <list>
+                     <item>
+                        <emph render="bold">Incipit</emph>
+                        <blockquote>
+                           <p> Oṃ ṟīṃ śṟīṃ Aṃ civakaṇapati tēvar
+  <lb/>[2] Oṃ Aṃ Uṃ […]</p>
+                        </blockquote>
+                     </item>
+                     <item>
+                        <emph render="bold">Explicit</emph>
+                        <blockquote>
+                           <p>[…] 
+  <lb/>[2] tāṉākaṇapati caraṇam caraṇam {piḷḷaiyār cuḻi (long)} {piḷḷaiyār cuḻi (long)}</p>
+                        </blockquote>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <emph render="bold">Paratexts</emph>
+                  <list>
+                     <item>(U1, T1) <emph render="bold">header</emph>: [left margin ]
+  <lb/>[1-4] vināyakar-uṭaiya mūlātārattiṉ-uṭaiya Uyir {piḷḷaiyār cuḻi (long)}</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: vināyakar-uṭaiya mūlātārattiṉ-uṭaiya Uyir {piḷḷaiyār cuḻi (long)}</item>
+                     <item>(U1, T1) <emph render="bold">blessing (formulaic)</emph>: kuru pātamē
+<lb/>[4] tuṇai {piḷḷaiyār cuḻi (long)}</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: viratam mūṉṟu</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: manōṉmaṉiyantāti</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: vināyakar mūlātāravuyiṟ</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: mantiracillaṟai</item>
+                  </list>
+               </p>
+               <p>
+                  <emph render="bold">Transcription conventions</emph>
+                  <lb/>
+                  <emph render="bold">()</emph> indicates unclear text. <emph render="bold">{}</emph> indicates a note. <emph render="bold">[vacat]</emph> indicates the scribe deliberately left a space. […] indicates an ellipsis.  <emph render="bold">General</emph> ― Unmarked length of <emph render="italic">ō</emph> and <emph render="italic">ē</emph> supplied. Unmarked <emph render="italic">puḷḷi</emph> supplied. Conjectural reading (text unclear) between parentheses. Supplied reading (text lost) between square brackets. Alternative readings separated by slash. <emph render="bold">In transliteration</emph> ― Unmarked elided overshort <emph render="italic">u</emph> supplied as an apostrophe. Uppercase for initial vowels. Symbols between curly brackets. <emph render="bold">Abbreviations</emph> ― c = column; f = folio; lf = library foliation; lm = left margin; r = recto; rm = right margin; u / U followed by a number = unit (codicological and/or textual); v = verso.     </p>
+            </scopecontent>
+            <bibliography>
+               <bibref>Cabaton, Antoine (1912). <emph render="italic">Catalogue sommaire des manuscrits indiens, indo-chinois &amp; malayo-polynésiens. Bibliothèque nationale. Département des manuscrits.</emph> Paris: E. Leroux. — See <extref actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b10329763p/f20">p. 2, no. 5</extref>
+               </bibref>
+               <bibref>Rosny, Léon de (1868). “La bibliothèque tamoule de M. Ariel, de Pondichéry”. In: <emph render="italic">Variétés orientales</emph> (pp. 177‒224). Paris: Maisonneuve.</bibref>
+               <bibref>Vinson, Julien &amp; Feer, Léon &amp; s.n. (1866-). <emph render="italic">Catalogue des manuscrits tamoul et télinga</emph>. Manuscript, BnF Indien 577. — See <extref actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b105375868/f17">f. 1r, no. 5</extref>. </bibref>
+               <bibref>Vinson, Julien (1868). <emph render="italic">Manuscrits tamouls</emph>. Proofreadings of the catalogue for Tamoul 1-204 (old shelfmark). Printed by the atelier oriental de l’Imprimerie nationale. BnF “4-IMPROR-77 (B)”. — See <extref actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b105333021/f11">p. 1, no. 5</extref>. — The same proofreadings with black ink handwritten corrections are found in Vinson et al. (1866-, f1-f49). </bibref>
+            </bibliography>
+            <custodhist>
+               <p>Owned by <persname role="4010" source="BnF" normal="Ariel, Édouard" authfilenumber="ark:/12148/cb143513141">Édouard Ariel</persname> (1818-1854). Bequested by Édouard Ariel to Société Asiatique (Rosny 1868, p. 177).</p>
+            </custodhist>
+            <acqinfo>
+               <p>Received, August 1st, 1866, from the Société Asiatique. See BnF, département des Manuscrits, inventaire 7 = <emph render="italic">Dons: manuscrits et imprimés documentaires, 1848-1895</emph>, no. 1192.</p>
+            </acqinfo>
+            <processinfo>
+               <p>This catalogue entry has been adapted from:</p>
+               <p>
+                  <bibref>FRANCIS, Emmanuel. 2022. “<extref actuate="onrequest" href="https://tst-project.github.io/mss/Indien_0005b.xml">Indien 5b. Vināyakaruṭaiya Mūlātārattiṉuṭaiya Uyir.</extref>” <emph render="italic">Descriptive Catalogue of the Texts Surrounding Texts Project.</emph> Paris: TST Project. <extref actuate="onrequest" href="https://doi.org/10.5281/zenodo.6475589">doi:10.5281/zenodo.6475589</extref>
+                  </bibref>
+               </p>
+            </processinfo>
+         </c>
+         <c level="otherlevel" otherlevel="partie_composante">
+            <did>
+               <unitid type="cote">Indien 5c</unitid>
+               <unittitle>Mantras and Yantras</unittitle>
+               
+               <langmaterial>Manuscript in <language langcode="tam">Tamil</language>.</langmaterial>
+               <unitdate calendar="gregorian" era="ce" normal="1854">1854. No internal date. Not after 1854, since part of the collection of Édouard Ariel (1818-1854).</unitdate>
+               <physdesc>
+                  <geogname role="5020">Tamilnadu.</geogname>
+                  <lb/>
+                  <physfacet type="écriture">
+        Scribal hands: (U1, U2) Tamil script. Incised. (U3, U4, U5, U6, U7, U8) Tamil script. Incised, soot. </physfacet>
+                  <lb/>
+                  <physfacet type="codicologie">
+                     <emph render="bold">U1</emph>: 1 folio = <emph render="bold">
+                        <emph render="italic">Vayiravar Mantiram</emph>
+                     </emph>. No foliation. <emph render="bold">U2</emph>: 1 folio = <emph render="bold">TBC</emph>. No foliation. <emph render="bold">U3</emph>: 1 folio = <emph render="bold">
+                        <emph render="italic">Vayiravaṉ Mantiram</emph>
+                     </emph>. No foliation. <emph render="bold">U4</emph>: 1 folio = <emph render="bold">
+                        <emph render="italic">Vālai-Paramēsvari-Mantiram</emph>
+                     </emph>. No foliation. <emph render="bold">U5</emph>: 1 folio = <emph render="bold">
+                        <emph render="italic">Cuppiramaṇiyar Mantiram</emph>
+                     </emph>. No foliation. <emph render="bold">U6</emph>: 2 folios = <emph render="bold">
+                        <emph render="italic">Pēcci-Mantiram</emph>
+                     </emph>. No foliation. <emph render="bold">U7</emph>: 2 folios = <emph render="bold">
+                        <emph render="italic">Taṉṉai Kaṭṭu Mantiram</emph>
+                     </emph>. Tamil foliation 1-2. <emph render="bold">U8</emph>: 1 folio = <emph render="bold">TBC</emph>. No foliation. </physfacet>
+                  <lb/>
+                  <lb/>
+                  <physfacet type="support">Palm leaf (Pothi. 2 stringholes.) </physfacet>
+                  <extent/>
+                  <dimensions/>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>
+                  <emph render="italic">Mantra</emph>s accompanied with <emph render="italic">cakkaram</emph>s. This appears to be a composite manuscript, described here as multi-text manuscript for the sake of convenience.</p>
+               <p>
+                  <emph render="bold">Contents</emph> (Composite manuscript)</p>
+               <p>(U1) <title>Vayiravar Mantiram</title>
+                  <list>
+                     <item>
+                        <emph render="bold">Incipit</emph>
+                        <blockquote>
+                           <p>Ōṃ ṟīṃ śṟīṃ […]</p>
+                        </blockquote>
+                     </item>
+                  </list>
+               </p>
+               <p>(U2) <title>TBC
+</title>
+                  <list/>
+               </p>
+               <p>(U3) <title>Vayiravaṉ Mantiram    </title>
+                  <list>
+                     <item>
+                        <emph render="bold">Incipit</emph>
+                        <blockquote>
+                           <p>Ōm yiṟiṅ ruṅ […]</p>
+                        </blockquote>
+                     </item>
+                  </list>
+               </p>
+               <p>(U4) <title>Vālai-Paramēsvari-Mantiram    </title>
+                  <list>
+                     <item>
+                        <emph render="bold">Incipit</emph>
+                        <blockquote>
+                           <p>Ōm Ayyum vālai paramēsvari […]</p>
+                        </blockquote>
+                     </item>
+                  </list>
+               </p>
+               <p>(U5) <title>Cuppiramaṇiyar Mantiram</title>
+                  <list>
+                     <item>
+                        <emph render="bold">Incipit</emph>
+                        <blockquote>
+                           <p>Ōm Ām […]</p>
+                        </blockquote>
+                     </item>
+                     <item>
+                        <emph render="bold">Explicit</emph>
+                        <blockquote>
+                           <p>[…] {piḷḷaiyār cuḻi (short)}</p>
+                        </blockquote>
+                     </item>
+                  </list>
+               </p>
+               <p>(U6) <title>Pēcci-Mantiram</title>
+                  <list>
+                     <item>
+                        <emph render="bold">Incipit</emph>
+                        <blockquote>
+                           <p>Ōm […]</p>
+                        </blockquote>
+                     </item>
+                  </list>
+               </p>
+               <p>(U7) <title>Taṉṉai Kaṭṭu Mantiram</title>
+                  <list>
+                     <item>
+                        <emph render="bold">Incipit</emph>
+                        <blockquote>
+                           <p>Om· […]</p>
+                        </blockquote>
+                     </item>
+                     <item>
+                        <emph render="bold">Explicit</emph>
+                        <blockquote>
+                           <p>[…] {piḷḷaiyār cuḻi (short)}</p>
+                        </blockquote>
+                     </item>
+                  </list>
+               </p>
+               <p>(U8) <title>TBC</title>
+                  <list>
+                     <item>
+                        <emph render="bold">Incipit</emph>
+                        <blockquote>
+                           <p>Om· Am […]</p>
+                        </blockquote>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <emph render="bold">Paratexts</emph>
+                  <list>
+                     <item>(U1, T1) <emph render="bold">header</emph>: [left margin ]
+  <lb/>[1-2] vayiravar mantiram</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: vayiravar mantiram</item>
+                     <item>(U3, T3) <emph render="bold">header</emph>: [left margin ]
+  <lb/>[1-2] tirucciṟṟampalam
+  <lb/>[3-4] vayiravaṉ mantiram</item>
+                     <item>(U3, T3) <emph render="bold">blessing (formulaic)</emph>: tirucciṟṟampalam</item>
+                     <item>(U3, T3) <emph render="bold">title</emph>: vayiravaṉ mantiram</item>
+                     <item>(U3, T3) <emph render="bold">TBC</emph>: vayiravaṉ cakkaram</item>
+                     <item>(U3, T3) <emph render="bold">TBC</emph>: vālai cakkaram</item>
+                     <item>(U4, T4) <emph render="bold">header</emph>: [left margin ]
+  <lb/>[1-3] vālai-paramēsvari-mantiram</item>
+                     <item>(U4, T4) <emph render="bold">title</emph>: vālai-paramēsvari-mantiram</item>
+                     <item>(U5, T5) <emph render="bold">header</emph>: [left margin ]
+  <lb/>[1-5]  cuppa<emph render="bold">(</emph>ra<emph render="bold">)</emph>maṇiyar mantiram</item>
+                     <item>(U5, T5) <emph render="bold">title</emph>:  cuppa<emph render="bold">(</emph>ra<emph render="bold">)</emph>maṇiyar mantiram</item>
+                     <item>(U6, T6) <emph render="bold">header</emph>: [left margin ]
+  <lb/>[1-2] pēcci-mantiram</item>
+                     <item>(U6, T6) <emph render="bold">title</emph>: pēcci-mantiram</item>
+                     <item>(U7, T7) <emph render="bold">header</emph>: [left margin ]
+  <lb/>[1-3] taṉṉai kaṭṭu mantiram</item>
+                     <item>(U7, T7) <emph render="bold">TBC</emph>: taṉṉai kaṭṭu mantiram</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: viratam mūṉṟu</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: manōṉmaṉiyantāti</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: vināyakar mūlātāravuyiṟ</item>
+                     <item>(U1, T1) <emph render="bold">title</emph>: mantiracillaṟai</item>
+                  </list>
+               </p>
+               <p>
+                  <emph render="bold">Transcription conventions</emph>
+                  <lb/>
+                  <emph render="bold">()</emph> indicates unclear text. <emph render="bold">{}</emph> indicates a note. <emph render="bold">[vacat]</emph> indicates the scribe deliberately left a space. […] indicates an ellipsis.  <emph render="bold">General</emph> ― Unmarked length of <emph render="italic">ō</emph> and <emph render="italic">ē</emph> supplied. Unmarked <emph render="italic">puḷḷi</emph> supplied. Conjectural reading (text unclear) between parentheses. Supplied reading (text lost) between square brackets. Alternative readings separated by slash. <emph render="bold">In transliteration</emph> ― Unmarked elided overshort <emph render="italic">u</emph> supplied as an apostrophe. Uppercase for initial vowels. Symbols between curly brackets. <emph render="bold">Abbreviations</emph> ― c = column; f = folio; lf = library foliation; lm = left margin; r = recto; rm = right margin; u / U followed by a number = unit (codicological and/or textual); v = verso.     </p>
+            </scopecontent>
+            <bibliography>
+               <bibref>Cabaton, Antoine (1912). <emph render="italic">Catalogue sommaire des manuscrits indiens, indo-chinois &amp; malayo-polynésiens. Bibliothèque nationale. Département des manuscrits.</emph> Paris: E. Leroux. — See <extref actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b10329763p/f20">p. 2, no. 5</extref>
+               </bibref>
+               <bibref>Rosny, Léon de (1868). “La bibliothèque tamoule de M. Ariel, de Pondichéry”. In: <emph render="italic">Variétés orientales</emph> (pp. 177‒224). Paris: Maisonneuve.</bibref>
+               <bibref>Vinson, Julien &amp; Feer, Léon &amp; s.n. (1866-). <emph render="italic">Catalogue des manuscrits tamoul et télinga</emph>. Manuscript, BnF Indien 577. — See <extref actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b105375868/f17">f. 1r, no. 5</extref>. </bibref>
+               <bibref>Vinson, Julien (1868). <emph render="italic">Manuscrits tamouls</emph>. Proofreadings of the catalogue for Tamoul 1-204 (old shelfmark). Printed by the atelier oriental de l’Imprimerie nationale. BnF “4-IMPROR-77 (B)”. — See <extref actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b105333021/f11">p. 1, no. 5</extref>. — The same proofreadings with black ink handwritten corrections are found in Vinson et al. (1866-, f1-f49). </bibref>
+            </bibliography>
+            <custodhist>
+               <p>Owned by <persname role="4010" source="BnF" normal="Ariel, Édouard" authfilenumber="ark:/12148/cb143513141">Édouard Ariel</persname> (1818-1854). Bequested by Édouard Ariel to Société Asiatique (Rosny 1868, p. 177).</p>
+            </custodhist>
+            <acqinfo>
+               <p>Received, August 1st, 1866, from the Société Asiatique. See BnF, département des Manuscrits, inventaire 7 = <emph render="italic">Dons: manuscrits et imprimés documentaires, 1848-1895</emph>, no. 1192.</p>
+            </acqinfo>
+            <processinfo>
+               <p>This catalogue entry has been adapted from:</p>
+               <p>
+                  <bibref>FRANCIS, Emmanuel. 2022. “<extref actuate="onrequest" href="https://tst-project.github.io/mss/Indien_0005c.xml">Indien 5c. Mantras and Yantras.</extref>” <emph render="italic">Descriptive Catalogue of the Texts Surrounding Texts Project.</emph> Paris: TST Project. <extref actuate="onrequest" href="https://doi.org/10.5281/zenodo.6475589">doi:10.5281/zenodo.6475589</extref>
+                  </bibref>
+               </p>
+            </processinfo>
+         </c>
+      </dsc><bibliography>
+         <bibref>Cabaton, Antoine (1912). <emph render="italic">Catalogue sommaire des manuscrits indiens, indo-chinois &amp; malayo-polynésiens. Bibliothèque nationale. Département des manuscrits.</emph> Paris: E. Leroux. — See <extref actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b10329763p/f20">p. 2, no. 5</extref>
+         </bibref>
+         <bibref>Rosny, Léon de (1868). “La bibliothèque tamoule de M. Ariel, de Pondichéry”. In: <emph render="italic">Variétés orientales</emph> (pp. 177‒224). Paris: Maisonneuve.</bibref>
+         <bibref>Vinson, Julien &amp; Feer, Léon &amp; s.n. (1866-). <emph render="italic">Catalogue des manuscrits tamoul et télinga</emph>. Manuscript, BnF Indien 577. — See <extref actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b105375868/f17">f. 1r, no. 5</extref>. </bibref>
+         <bibref>Vinson, Julien (1868). <emph render="italic">Manuscrits tamouls</emph>. Proofreadings of the catalogue for Tamoul 1-204 (old shelfmark). Printed by the atelier oriental de l’Imprimerie nationale. BnF “4-IMPROR-77 (B)”. — See <extref actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b105333021/f11">p. 1, no. 5</extref>. — The same proofreadings with black ink handwritten corrections are found in Vinson et al. (1866-, f1-f49). </bibref>
+      </bibliography><custodhist>
+         <p>Owned by <persname role="4010" source="BnF" normal="Ariel, Édouard" authfilenumber="ark:/12148/cb143513141">Édouard Ariel</persname> (1818-1854). Bequested by Édouard Ariel to Société Asiatique (Rosny 1868, p. 177).</p>
+      </custodhist><acqinfo>
+         <p>Received, August 1st, 1866, from the Société Asiatique. See BnF, département des Manuscrits, inventaire 7 = <emph render="italic">Dons: manuscrits et imprimés documentaires, 1848-1895</emph>, no. 1192.</p>
+      </acqinfo><processinfo>
+         <p>This catalogue entry has been adapted from:</p>
+         <p>
+            <bibref>FRANCIS, Emmanuel. 2022. “<extref actuate="onrequest" href="https://tst-project.github.io/mss/Indien_0005.xml">Indien 5. Collection (3 items, 3 works).</extref>” <emph render="italic">Descriptive Catalogue of the Texts Surrounding Texts Project.</emph> Paris: TST Project. <extref actuate="onrequest" href="https://doi.org/10.5281/zenodo.6475589">doi:10.5281/zenodo.6475589</extref>
+            </bibref>
+         </p>
+      </processinfo></archdesc>
+</ead>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"><ead id="N10001">
+  <?ir_sysID 100475?>
+  <?comp_sysID 4934862?>
+  <?mass_edit 1?>
+  <?comp_id_being_edited 4934862?>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid>FRBNFEAD000103780</eadid>
+    <filedesc>
+         <titlestmt>
+            <titleproper>Indien <num>246</num>. Maṇimēkalai</titleproper>
+            <subtitle>Notice descriptive</subtitle>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Bibliothèque nationale de France</publisher>
+            <date calendar="gregorian" era="ce">2022</date>
+         </publicationstmt>
+      </filedesc>
+    <profiledesc>
+         <creation audience="internal">Cette notice a été encodée en XML conformément à la DTD EAD (version 2002).</creation>
+         <langusage>Notice rédigée en <language langcode="eng">anglais</language>.</langusage>
+      </profiledesc>
+  </eadheader>
+  <archdesc level="item">
+    <did>
+         <unitid type="cote">Indien 246</unitid>
+         <unitid type="ancienne cote">Tamoul 246</unitid>
+         <unitid type="ancienne cote">Ariel 46</unitid>
+         <unitid type="ancienne cote">b/26</unitid>
+         <unittitle>Maṇimēkalai</unittitle>
+         <unittitle type="non-latin originel">மணிமேகலை</unittitle>
+         <langmaterial>Manuscript in <language langcode="tam">Tamil</language>.</langmaterial>
+         <unitdate calendar="gregorian" era="ce" normal="1854">1854. Dated to circa 1848 by Vinson (1866-) and to 1848 by Cabaton (1912), on unstated grounds (presumably palaeographical and material analysis arguments). Not after 1854, since part of the collection of Édouard Ariel (1818-1854), bequeathed in 1855 to the Société Asiatique, Paris (Rosny 1868).</unitdate>
+         <physdesc>
+            <geogname role="5020">South India, Tamil Nadu.</geogname>
+            <lb/>
+            <physfacet type="écriture">
+        Scribal hands: (U1) Tamil script: regular <emph render="italic">puḷḷi</emph>, long <emph render="italic">ō/ē</emph> (double-curled <emph render="italic">kompu</emph>). Incised, soot. Hand #1. <persname role="0270">Ariel's title page scribe</persname>.(U2) Tamil script. Incised, soot. Hand #2. Transitional script with modern <emph render="italic">ṟa</emph> and some double <emph render="italic">kompu</emph>s. Densely written.</physfacet>
+            <lb/>
+            <physfacet type="codicologie">
+               <emph render="bold">CoverFront</emph>: the <emph render="bold">front cover</emph>. Shelfmark and sticker on recto. <emph render="bold">U1</emph>: 1 folio = <emph render="bold">Title Page (additional)</emph>. No foliation. Verso blank. Shelfmark on recto. <emph render="bold">U2</emph>: 77 folios = <emph render="bold">
+                  <emph render="italic">Maṇimēkalai</emph>: Text</emph>. Tamil foliation (left margin) {1}, 2-77.
+ <emph render="bold">U3</emph>: 1 folio = back <emph render="bold">guard leaf (additional)</emph>. No foliation. Blank recto verso.
+ <emph render="bold">CoverBack</emph>: the <emph render="bold">back cover</emph>. </physfacet>
+            <lb/>
+            <lb/>
+            <dimensions>
+               <emph render="bold">leaf</emph>: 35  × 415 mm. <emph render="bold">object</emph>: 35  × 415  × 65 mm.  </dimensions>
+            <physfacet type="réglure">8 written lines per page. Verse lines separated by dot.</physfacet>
+            <lb/>
+            <lb/>
+         </physdesc>
+         <repository>
+            <corpname authfilenumber="751041006" normal="Bibliothèque nationale de France. Département des Manuscrits" source="Repertoire_des_Centres_de_Ressources">Bibliothèque nationale de France. Département des Manuscrits</corpname>
+         </repository>
+      </did>
+    <altformavail type="num">
+      <p>Il existe une version numÃ©risÃ©e de ce document.</p>
+    </altformavail>
+    <dao actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b10463678d" linktype="simple" show="new">
+      <daodesc>
+        <p>Numérisation effectuée à partir d'un document original : Indien 246.</p>
+      </daodesc>
+    </dao>
+    
+    
+    <altformavail type="mfilm">
+      <p>Microfilm en noir et blanc. Cote de consultation en salle de lecture : <num type="cotesub_com">MFILM Indien 246</num>. Cote de la matrice (pour commander une reproduction) : <num type="cotesub_matrice">R 61690</num>.</p>
+    </altformavail>
+    <altformavail type="num">
+      <p>Il existe une version numérisée de ce document.</p>
+    </altformavail>
+    <dao actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b10091861r" linktype="simple" show="new">
+      <daodesc>
+        <p>Numérisation effectuée à partir d'un document de substitution : R 61690.</p>
+      </daodesc>
+    </dao>
+    <dsc/>
+  <scopecontent>
+         <p>A complete copy, except for spaces left blank on the pages (probably because the master copy was defective), of the <emph render="italic">Maṇimēkalai</emph>. Compare <extref show="new" actuate="onrequest" href="https://tst-project.github.io/mss/Indien_0195.xml">BnF Indien 195</extref>, a copy of the <emph render="italic">Iṟaiyaṉar Akapporuḷ</emph>, also from the Ariel collection, apparently by the same hand, with spaces left blank too.</p>
+         <p>Description by Eva Wilden based on the digital images available on Gallica.</p>
+         <p>Original manuscript examined by Emmanuel Francis (November 2022).</p>
+         <p>Dimensions assessed at the time of examination.</p>
+         <p>
+            <emph render="bold">Contents</emph> (Single-text)</p>
+         <p>(U1) <title>Title Page (additional)</title>
+         </p>
+         <p>(U2) <title>Maṇimēkalai: Mūlam</title>
+            <list>
+               <item>
+                  <emph render="bold">Incipit</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f5">[1r]</extref> [main text area]
+  [1] Iḷaṅkatir ñāyi ṟeḷḷun tōṉṟal
+viḷaṅkoḷi mēṉi viricaṭai yāṭṭi</p>
+                  </blockquote>
+               </item>
+               <item>
+                  <emph render="bold">Explicit</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f158">[77v]</extref> [6] &gt;[…] pavattiṟa maṟukeṉap pāvainōṟ ṟaṉaḷeṉ =</p>
+                  </blockquote>
+               </item>
+               <item>
+                  <emph render="bold">Completion statement</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f158">[77v]</extref> [6] &gt;[…] pavattiṟa maṟukeṉap pāvainōṟṟa kātai muṟṟum = =</p>
+                  </blockquote>
+               </item>
+               <item>
+                  <emph render="bold">Completion statement</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f158">[77v]</extref> [6] &gt;[…] maṇimēkalai muṟṟiyatu {end of text}</p>
+                  </blockquote>
+               </item>
+               <item>
+                  <emph render="bold">Colophon</emph>
+                  <blockquote>
+                     <p>
+                        <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f158">[77v]</extref> pavattiṟa maṟukeṉap pāvainōṟṟa kātai muṟṟum = = maṇimēkalai muṟṟiyatu {end of text} Ācāriyaṉ
+    <lb/>[7] tiruvaṭikaḷē caraṇam {end of text} {piḷḷaiyār cuḻi (short)} {piḷḷaiyār cuḻi (short)}</p>
+                  </blockquote>
+               </item>
+            </list>
+         </p>
+         <p>
+            <emph render="bold">Paratexts</emph>
+            <list>
+               <item>(CoverFront) <emph render="bold">shelfmark</emph>, cover, front: BnF shelfmark sticker: “INDIEN 246” (<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f1">front cover, recto</extref>).</item>
+               <item>(CoverFront) <emph render="bold">documenting note</emph>, cover, front: BnF donation sticker “DON N° <emph render="bold">[</emph>vacat<emph render="bold">]</emph>” (<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f1">front cover, recto</extref>).</item>
+               <item>(U1; T1) <emph render="bold">shelfmark</emph>, left: Shelfmark “b/26” in black ink  (<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f3">f[1]r</extref>).</item>
+               <item>(U1) <emph render="bold">shelfmark</emph>, right: Sticker (Société Asiatique?) with shelfmark “676” inscribed in black ink (<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f3">f[1]r</extref>).</item>
+               <item>(U2) <emph render="bold">intertitle</emph>, marginal, left: Left-marginal chapter intertitles (ordinal number + chapter's name):
+<list>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f8">f2v</extref>) mutalāvatu viḻāvaṟai kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f10">f3v</extref>) Iraṇṭāvatu Ūralar Uraitta kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f12">f4v</extref>) mūṉṟāvatu malar vaṉampuku kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f17">f7r</extref>) nālāvatu paḷikkaṟai pukka kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f21">f9r</extref>) Aintāvātu maṇimēkalāteyvan tōṉṟiya kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f25">f11r</extref>) Āṟāvatu cakkaravāḷak kōṭṭam uraitta kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f32">f14v</extref>) Eḻāvatu tuyileḻuppiya kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f36">f16v</extref>) Eṭṭāvatu maṇippallavattut tuyaruṟṟa kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f38">f17v</extref>) Oṉpatāvatu pīṭikai kaṇṭu piṟappuṇarnta kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f41">f19r</extref>) pattāvatu mantiraṅ koṭutta kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f44">f20v</extref>) patiṉoṉṟāvatu pāttirampeṟṟa kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f48">f22v</extref>) paṉireṇṭāvatu Aṟavaṇarttoḻuta kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f52">f24v</extref>) patiṉmūṉṟāvatu Āpattiraṉ ṟiṟamaṟital kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f55">f26r</extref>) patiṉālāvatu pāttiramarapu kūṭiya kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f59">f28r</extref>) patiṉaintāvatu pāttiraṅkoṇṭu piccaipukka kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f62">f29v</extref>) patiṉāṟāvatu Ātirai piccaiyiṭṭa kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f65">f31r</extref>) patiṉēḻāvatu Ulakavaṟavi pukka kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f69">f33r</extref>) patiṉeṭṭāvatu Utaiyakumaraṉ Ampalam pukka kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f75">f36r</extref>) patiṉoṉpatāvatu ciṟaikōṭṭa maṟakkōṭṭa mākkiya kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f81">f39r</extref>) Irupattāvatu Utaiyakumaraṉaik kāñcaṉaṉ vāḷāleṟinta kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f85">f41r</extref>) Irupattoṉṟāvatu kantaṟappāvai varuvaturaitta kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f91">f44r</extref>) Irupattiraṇṭāvatu ciṟaiceyta kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f98">f47v</extref>) Irupattumūṉṟāvatu ciṟaiviṭu kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f102">f49v</extref>) Irupattunālāvatu Āputtiraṉāṭaṭainta kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f108">f52v</extref>) Irupattaintāvatu Āputtiraṉoṭu maṇipavalamaṭainta kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f116">f56v</extref>) Irupattāṟāvatu vañcimāṉakar pukka kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f119">f58r</extref>) Irupattēḻāvatu camaiyakkaṇakkar kantiṟaṅkēṭṭa kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f128">f62v</extref>) Irupatteṭṭāvatu kaccimānakar pukka kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f136">f66v</extref>) Irupattoṉpatāvatu tavattiṟampūṇṭu tarumaṅkēṭṭa kātai</item>
+                     <item>(<extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f150">f73v</extref>) muppattāvatu pavattiṟamaṟukeṉap pāvainēṟṟa kātai</item>
+                  </list>
+               </item>
+               <item>(U1, T1) <emph render="bold">blessing (prose)</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f3">[[1]r]</extref> [column 1] 
+  <lb/>[1] veṟṟi vē
+  <lb/>[2] l uṟṟatuṇai</item>
+               <item>(U1, T1) <emph render="bold">title</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f3">[[1]r]</extref> [column 2] 
+       <lb/>[1] Iḵtu
+
+     <lb/>[column 3] 
+  <lb/>[1] maṇimēkalai
+  <lb/>[2] mūlam</item>
+               <item>(U2, T2) <emph render="bold">header, blessing (prose), intertitle, title</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f5">[1r]</extref>
+    [left margin]
+  <lb/>[1] hari Om
+  [2] naṉṟāka
+  [3] maṇimēkalai
+  [4] patikam ~
+    </item>
+               <item>(U2, T2) <emph render="bold">completion-statement</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f158">[77v]</extref> [6] &gt;[…] pavattiṟa maṟukeṉap pāvainōṟṟa kātai muṟṟum = =</item>
+               <item>(U2, T2) <emph render="bold">completion-statement</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f158">[77v]</extref> [6] &gt;[…] maṇimēkalai muṟṟiyatu {end of text}</item>
+               <item>(U2, T2) <emph render="bold">blessing (prose)</emph>: <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b10463678d/f158">[77v]</extref> [6] &gt;[…] Ācāriyaṉ
+    <lb/>[7] tiruvaṭikaḷē caraṇam {end of text} {piḷḷaiyār cuḻi (short)} {piḷḷaiyār cuḻi (short)}</item>
+            </list>
+         </p>
+         <p>
+            <emph render="bold">Transcription conventions</emph>
+            <lb/>
+            <emph render="bold">〚〛</emph> indicates deletions. <emph render="bold">{}</emph> indicates a note. <emph render="bold">[</emph>vacat<emph render="bold">]</emph> indicates the scribe deliberately left a space. […] indicates an ellipsis.  <emph render="bold">General</emph> ― Unmarked length of <emph render="italic">ō</emph> and <emph render="italic">ē</emph> supplied. Unmarked <emph render="italic">puḷḷi</emph> supplied. Conjectural reading (text unclear) between parentheses. Supplied reading (text lost) between square brackets. Alternative readings separated by slash. <emph render="bold">In transliteration</emph> ― Unmarked elided overshort <emph render="italic">u</emph> supplied as an apostrophe. Uppercase for initial vowels. Symbols between curly brackets. <emph render="bold">Abbreviations</emph> ― c = column; f = folio; lf = library foliation; lm = left margin; r = recto; rm = right margin; u / U followed by a number = unit (codicological and/or textual); v = verso.               </p>
+      </scopecontent><bibliography>
+         <bibref>Maṇimēkalai. 1965<emph render="super">6</emph>. <emph render="italic">Cīttalai Cāttaṉār aruḷicceyta Maṇimēkalai mūlamum arumpatavuraiyum</emph>. Edited by U. Vē. Cāminātaiyar. Kapīr Accukkūṭṭam: Ceṉṉai. [1898<emph render="super">1</emph>, 1921<emph render="super">2</emph>, 1931<emph render="super">3</emph>, 1949<emph render="super">4</emph>, 1956<emph render="super">5</emph>]</bibref>
+         <bibref>Cabaton, Antoine. 1912. <emph render="italic">Catalogue sommaire des manuscrits indiens, indo-chinois et malayo-polynésiens</emph>. Bibliothèque nationale. Département des manuscrits. Paris: E. Leroux. — See <extref show="new" actuate="onrequest" href="http://gallica.bnf.fr/ark:/12148/btv1b10329763p/f56">p. 38, no. 246</extref>.</bibref>
+         <bibref>Chevillard, Jean-Luc. 2019-12-25. “A first academic collaboration between Tamil India and France: the case of BnF “Indien 246”, and the exchange of letters between Julien Vinson and U. Vē. Cāminātaiyar”. Blogpost. <extref show="new" actuate="onrequest" href="https://tst.hypotheses.org/556">https://tst.hypotheses.org/556</extref>.</bibref>
+         <bibref>Rosny, Léon de. 1868. “La bibliothèque tamoule de M. Ariel, de Pondichéry”. In <emph render="italic">Variétés orientales</emph>, 177‒224. Paris: Maisonneuve. </bibref>
+         <bibref>Vinson, Julien &amp; Feer, Léon &amp; s.n. 1866-. <emph render="italic"> Catalogue des manuscrits tamoul et télinga</emph>. Manuscript, BnF Indien 577. — See <extref show="new" actuate="onrequest" href="https://gallica.bnf.fr/ark:/12148/btv1b105375868/f131">f. 58r, no. <emph render="bold">〚</emph>230<emph render="bold">〛</emph> 246</extref>. </bibref>
+      </bibliography><custodhist>
+         <p>Owned by <persname role="4010" source="BnF" authfilenumber="ark:/12148/cb143513141">Édouard Ariel</persname> (1818-1854). Bequeathed by Édouard Ariel to Société Asiatique (Rosny 1868, p. 177). </p>
+      </custodhist><acqinfo>
+         <p>Received, August 1st, 1866, from the Société Asiatique. See BnF, département des Manuscrits, inventaire 7 = <emph render="italic">Dons: manuscrits et imprimés documentaires, 1848-1895</emph>, no. 1192.</p>
+      </acqinfo><processinfo>
+         <p>This catalogue entry has been adapted from:</p>
+         <p>
+            <bibref>Wilden, Eva. 2023. “<extref actuate="onrequest" show="new" href="https://tst-project.github.io/mss/Indien_0246.xml">Indien 246. Maṇimēkalai.</extref>” <emph render="italic">Descriptive Catalogue of the Texts Surrounding Texts Project.</emph> Paris: TST Project. <extref actuate="onrequest" show="new" href="https://doi.org/10.5281/zenodo.6475589">doi:10.5281/zenodo.6475589</extref>
+            </bibref>
+         </p>
+      </processinfo></archdesc>
+</ead>
