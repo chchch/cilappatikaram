@@ -86,11 +86,12 @@
       
    <revisionDesc/></teiHeader>
    <facsimile>
+    <graphic url="https://chchch.github.io/cilappatikaram/manifest.json"/>
    </facsimile>
 <text corresp="#cil" xml:lang="ta"><body>
   <div type="patippu" n="6">
     <div type="kantam">
-      <head><pb n="33"/>mutalāvatu</head>
+      <head><pb n="33" facs="1"/>mutalāvatu</head>
       <head type="sub"><lb/><note place="foot" type="variant"><c type="anchor">†</c> <q>pukārkāṇṭam</q></note>pukārkkāṇṭam</head>
         <div type="patal" n="1">
           <head type="sub"><lb/>(ka) maṅkalavāḻttuppāṭal</head>
