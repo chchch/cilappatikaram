@@ -123,6 +123,35 @@
     </xsl:choose>
 </xsl:template>
 
+<xsl:template match="x:text//x:head">
+    <xsl:choose>
+        <xsl:when test=".//x:app and not(//x:facsimile/x:graphic)">
+            <div>
+                <xsl:attribute name="class">para wide</xsl:attribute>
+                <xsl:if test="@xml:id">
+                    <xsl:attribute name="id"><xsl:value-of select="@xml:id"/></xsl:attribute>
+                </xsl:if>
+                <xsl:if test="@corresp">
+                    <xsl:attribute name="data-corresp"><xsl:value-of select="@corresp"/></xsl:attribute>
+                </xsl:if>
+                <div>
+                    <xsl:attribute name="class">text-block</xsl:attribute>
+                    <xsl:call-template name="lang"/>
+                    <xsl:call-template name="texthead"/>
+                </div>
+                <div>
+                    <xsl:attribute name="class">apparatus-block</xsl:attribute>
+                    <xsl:call-template name="lang"/>
+                    <xsl:call-template name="apparatus"/>
+                </div>
+            </div>
+        </xsl:when>
+        <xsl:otherwise>
+            <xsl:call-template name="texthead"/>
+        </xsl:otherwise>
+    </xsl:choose>
+</xsl:template>
+
 <xsl:template match="x:text//x:lg">
     <xsl:choose>
         <xsl:when test=".//x:app and not(//x:facsimile/x:graphic)">

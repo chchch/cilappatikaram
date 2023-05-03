@@ -15,7 +15,12 @@
         </xsl:attribute>
     </xsl:element>
     <xsl:element name="section">
-        <xsl:attribute name="class">teitext</xsl:attribute>
+        <xsl:attribute name="class">
+            <xsl:text>teitext</xsl:text>
+            <xsl:if test="@type='edition'">
+                <xsl:text> edition</xsl:text>
+            </xsl:if>
+        </xsl:attribute>
         <xsl:attribute name="data-synch"><xsl:value-of select="@synch"/></xsl:attribute>
         <xsl:attribute name="data-corresp"><xsl:value-of select="$textid"/></xsl:attribute>
         <xsl:call-template name="lang"/>
@@ -904,11 +909,25 @@
     </sub>
 </xsl:template>
 
+<xsl:template name="texthead">
+    <xsl:choose>
+        <xsl:when test="@type = 'sub'">
+            <h3>
+                <xsl:call-template name="lang"/>
+                <xsl:apply-templates/>
+            </h3>
+        </xsl:when>
+        <xsl:otherwise>
+            <h2>
+                <xsl:call-template name="lang"/>
+                <xsl:apply-templates/>
+            </h2>
+        </xsl:otherwise>
+    </xsl:choose>
+</xsl:template>
+
 <xsl:template match="x:text//x:head">
-    <h3>
-        <xsl:call-template name="lang"/>
-        <xsl:apply-templates/>
-    </h3>
+    <xsl:call-template name="texthead"/>
 </xsl:template>
 
 <xsl:template match="x:table">
