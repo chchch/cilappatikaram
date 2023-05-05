@@ -53,9 +53,9 @@
       <encodingDesc><p>Madras Lexicon conventions.</p></encodingDesc>
       <revisionDesc/>
    </teiHeader>
-   <facsimile>
+   <!--facsimile>
     <graphic url="https://chchch.github.io/cilappatikaram/manifest.json"/>
-   </facsimile>
+   </facsimile-->
 
 <text corresp="#cil" xml:lang="ta" type="edition">
   <body>
