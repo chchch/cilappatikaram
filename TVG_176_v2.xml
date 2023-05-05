@@ -81,14 +81,16 @@
           <l n="1.13"><lb n="13"/>āṅku,</l>
           <l n="1.14"><lb n="14"/>potiyi lāyiṉu mimaya māyiṉum</l>
         </lg>
-        <p type="commentary uvs" corresp="1.1"><lb/><num xml:lang="en">1.</num> tiṅkaḷaippōṟṟutum tiṅkaḷaippōṟṟutumeṉṉum Aṭukku
+        <div type="commentary">
+          <p corresp="1.1"><lb/><num xml:lang="en">1.</num> tiṅkaḷaippōṟṟutum tiṅkaḷaippōṟṟutumeṉṉum Aṭukku
 <lb/>ciṟappiṉkaṇ vantatu.</p>
-        <p type="commentary uvs" corresp="1.3"><lb/><num xml:lang="en">3.</num> aṅkaṇulaku – aḻakiya ulakiṭam.</p>
-        <p type="commentary uvs" corresp="1.8-1.9"><lb/><num xml:lang="en">8.</num> nāmanīr – accattait tarukiṉṟa kaṭal. <num xml:lang="en">9.</num> mēṉiṉṟu – ellāp
+          <p corresp="1.3"><lb/><num xml:lang="en">3.</num> aṅkaṇulaku – aḻakiya ulakiṭam.</p>
+          <p corresp="1.8-1.9"><lb/><num xml:lang="en">8.</num> nāmanīr – accattait tarukiṉṟa kaṭal. <num xml:lang="en">9.</num> mēṉiṉṟu – ellāp
 <lb/>poruḷukkum mēlākaniṉṟu.</p>
-        <p type="commentary uvs" corresp="1.11"><lb/><num xml:lang="en">11.</num> vīṅkunīr – niṟainta nīr.</p>
-        <p type="commentary uvs" corresp="1.1-1.13"><lb/><num xml:lang="en">1 – 12.</num> ivai nāṉku cintiyal veṇpāvum cempiyaṉaiyum pukā
+          <p corresp="1.11"><lb/><num xml:lang="en">11.</num> vīṅkunīr – niṟainta nīr.</p>
+          <p corresp="1.1-1.13"><lb/><num xml:lang="en">1 – 12.</num> ivai nāṉku cintiyal veṇpāvum cempiyaṉaiyum pukā
 <lb/>riṉaiyum ciṟappittaṉa. <num xml:lang="en">13.</num> āṅku – ātalāl.</p>
+        </div>
       </div>
     </div>
   </body>
